@@ -1,4 +1,4 @@
-# 🎵 Spotify Vibe Classifier
+# 🎵Vibe Classifier
 
 A Machine Learning project that classifies songs into **Party, Workout, Sleep, or Study** based on their audio features.
 
