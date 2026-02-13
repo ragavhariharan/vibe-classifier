@@ -1,0 +1,674 @@
+Song Name,Vibe,Energy,Danceability,Happiness,Loudness
+Dua Lipa - Levitating,Party,83.0,70.0,92.0,-4.0
+Taylor Swift - Shake It Off,Party,79.0,65.0,94.0,-5.0
+Beyoncé - Single Ladies,Party,58.0,43.0,27.0,-5.0
+Pitbull - Timber,Party,96.0,58.0,79.0,-4.0
+Ke$ha - TiK ToK,Party,84.0,76.0,71.0,-3.0
+Clean Bandit - Rather Be,Party,59.0,80.0,55.0,-7.0
+Luis Fonsi - Despacito,Party,80.0,66.0,84.0,-5.0
+Devi Sri Prasad - Oo Antava Mava,Party,74.0,93.0,51.0,-7.0
+Sid Sriram - Srivalli,Party,58.0,82.0,68.0,-6.0
+Vishal Dadlani - Swag Se Swagat,Party,56.0,83.0,21.0,-8.0
+Neha Kakkar - Dilbar,Party,91.0,73.0,67.0,-4.0
+Badshah - Kala Chashma,Party,86.0,80.0,92.0,-4.0
+Diljit Dosanjh - Lover,Party,59.0,83.0,77.0,-6.0
+AP Dhillon - Brown Munde,Party,61.0,85.0,42.0,-6.0
+Yo Yo Honey Singh - Lungi Dance,Party,96.0,68.0,82.0,-5.0
+Vishal Dadlani - Malhari,Party,93.0,50.0,32.0,-5.0
+Ricky Martin - Livin' La Vida Loca,Party,95.0,43.0,93.0,-4.0
+Pitbull - Fireball,Party,93.0,76.0,84.0,-5.0
+Don Omar - Danza Kuduro,Party,92.0,40.0,87.0,-5.0
+Sean Paul - Temperature,Party,60.0,95.0,82.0,-5.0
+Shaggy - It Wasn't Me,Party,61.0,85.0,65.0,-5.0
+Black Eyed Peas - Pump It,Party,93.0,65.0,74.0,-3.0
+Lady Gaga - Bad Romance,Party,92.0,70.0,71.0,-4.0
+Rihanna - S&M,Party,69.0,77.0,84.0,-5.0
+Katy Perry - Roar,Party,77.0,67.0,44.0,-5.0
+BTS - Butter,Party,46.0,76.0,70.0,-5.0
+BLACKPINK - How You Like That,Party,76.0,81.0,34.0,-5.0
+Twice - The Feels,Party,90.0,81.0,92.0,-2.0
+Stray Kids - God's Menu,Party,31.0,41.0,29.0,-21.0
+Bigbang - Bang Bang Bang,Party,79.0,71.0,75.0,-3.0
+"Super Junior - Sorry, Sorry",Party,97.0,71.0,96.0,-2.0
+Wonder Girls - Nobody,Party,79.0,88.0,95.0,-7.0
+Rain - Rainism,Party,84.0,74.0,67.0,-8.0
+Daler Mehndi - Tunak Tunak Tun,Party,98.0,79.0,69.0,-6.0
+Alka Yagnik - Bole Chudiyan,Party,88.0,59.0,74.0,-5.0
+Udit Narayan - Koi Mil Gaya,Party,69.0,70.0,82.0,-9.0
+Sonu Nigam - You Are My Sonia,Party,78.0,85.0,79.0,-6.0
+Shaan - Dus Bahane,Party,91.0,81.0,46.0,-5.0
+KK - It's The Time To Disco,Party,77.0,90.0,81.0,-8.0
+Shankar Mahadevan - Kajra Re,Party,90.0,48.0,68.0,-4.0
+Himesh Reshammiya - Aashiqui Mein Teri,Party,64.0,81.0,62.0,-9.0
+Pritam - Garmi,Party,98.0,67.0,80.0,-1.0
+Meet Bros - Baby Doll,Party,84.0,84.0,51.0,-3.0
+Kanika Kapoor - Chittiyaan Kalaiyaan,Party,89.0,79.0,60.0,-5.0
+Yo Yo Honey Singh - Blue Eyes,Party,51.0,77.0,53.0,-5.0
+Jass Manak - Prada,Party,65.0,72.0,46.0,-5.0
+Harrdy Sandhu - Bijlee Bijlee,Party,67.0,80.0,64.0,-5.0
+King - Maan Meri Jaan,Party,51.0,70.0,40.0,-8.0
+Divine - Mirchi,Party,61.0,87.0,82.0,-5.0
+G.V. Prakash Kumar - Appadi Podu,Party,42.0,81.0,47.0,-13.0
+Harris Jayaraj - Randaka,Party,92.0,82.0,74.0,-8.0
+Devi Sri Prasad - Ringa Ringa,Party,88.0,63.0,86.0,-3.0
+Thaman S - Butta Bomma,Party,64.0,67.0,89.0,-9.0
+Vijay Yesudas - Malare,Party,50.0,47.0,54.0,-11.0
+Vineeth Sreenivasan - Jimikki Kammal,Party,49.0,57.0,88.0,-8.0
+Kishore Kumar - Om Shanti Om,Party,77.0,49.0,62.0,-9.0
+Bee Gees - Stayin' Alive,Party,79.0,81.0,80.0,-9.0
+Kool & The Gang - Celebration,Party,66.0,89.0,91.0,-12.0
+Michael Jackson - Billie Jean,Party,64.0,69.0,45.0,-9.0
+Cyndi Lauper - Girls Just Want To Have Fun,Party,80.0,71.0,73.0,-5.0
+Madonna - Like A Prayer,Party,84.0,63.0,26.0,-5.0
+Britney Spears - Toxic,Party,47.0,75.0,45.0,-9.0
+Backstreet Boys - Everybody,Party,81.0,79.0,51.0,-5.0
+NSYNC - Bye Bye Bye,Party,87.0,57.0,81.0,-4.0
+Spice Girls - Wannabe,Party,86.0,77.0,89.0,-6.0
+Destiny's Child - Survivor,Party,91.0,51.0,62.0,-2.0
+Outkast - Hey Ya!,Party,97.0,73.0,97.0,-2.0
+MGMT - Kids,Party,93.0,45.0,17.0,-4.0
+Empire of the Sun - Walking On A Dream,Party,70.0,87.0,72.0,-6.0
+Foster The People - Pumped Up Kicks,Party,71.0,73.0,97.0,-6.0
+Phoenix - 1901,Party,83.0,60.0,67.0,-5.0
+Passion Pit - Sleepyhead,Party,72.0,57.0,54.0,-5.0
+Macklemore - Thrift Shop,Party,53.0,78.0,67.0,-7.0
+Iggy Azalea - Fancy,Party,72.0,91.0,38.0,-4.0
+Sia - Chandelier,Party,23.0,41.0,31.0,-8.0
+Kygo - Firestone,Party,63.0,70.0,41.0,-7.0
+Avicii - Levels,Party,91.0,62.0,35.0,-3.0
+Calvin Harris - Feel So Close,Party,92.0,71.0,92.0,-3.0
+Alan Walker - The Spectre,Party,71.0,65.0,20.0,-7.0
+The Chainsmokers - Roses,Party,80.0,71.0,34.0,-7.0
+Zedd - Clarity,Party,78.0,51.0,18.0,-3.0
+Galantis - Runaway (U & I),Party,81.0,51.0,38.0,-4.0
+Disclosure - Latch,Party,74.0,73.0,54.0,-5.0
+Rudimental - These Days,Party,81.0,65.0,55.0,-4.0
+Jonas Blue - Fast Car,Party,57.0,64.0,53.0,-7.0
+Sigala - Sweet Lovin',Party,85.0,68.0,71.0,-3.0
+Duke Dumont - Ocean Drive,Party,72.0,69.0,56.0,-5.0
+Kungs - This Girl,Party,72.0,79.0,47.0,-5.0
+Jax Jones - You Don't Know Me,Party,66.0,88.0,69.0,-6.0
+Joel Corry - Head & Heart,Party,87.0,73.0,91.0,-3.0
+Regard - Ride It,Party,75.0,88.0,88.0,-4.0
+Topic - Breaking Me,Party,72.0,79.0,66.0,-6.0
+SAINt JHN - Roses (Imanbek Remix),Party,72.0,79.0,89.0,-5.0
+Meduza - Piece Of Your Heart,Party,74.0,68.0,63.0,-7.0
+Stromae - Alors On Danse,Party,59.0,79.0,72.0,-9.0
+Michel Teló - Ai Se Eu Te Pego,Party,92.0,65.0,74.0,-7.0
+Gusttavo Lima - Balada,Party,96.0,68.0,81.0,-4.0
+Enrique Iglesias - Bailando,Party,78.0,73.0,96.0,-4.0
+Marc Anthony - Vivir Mi Vida,Party,88.0,66.0,89.0,-3.0
+Gipsy Kings - Bamboleo,Party,88.0,67.0,93.0,-9.0
+Los Del Rio - Macarena,Party,93.0,72.0,96.0,-6.0
+Las Ketchup - The Ketchup Song,Party,95.0,60.0,88.0,-6.0
+Kaoma - Lambada,Party,80.0,76.0,97.0,-5.0
+Lou Bega - Mambo No. 5,Party,81.0,62.0,89.0,-7.0
+Vengaboys - We Like To Party,Party,93.0,79.0,97.0,-5.0
+Aqua - Barbie Girl,Party,88.0,81.0,96.0,-11.0
+Eiffel 65 - Blue (Da Ba Dee),Party,97.0,83.0,73.0,-11.0
+O-Zone - Dragostea Din Tei,Party,97.0,80.0,68.0,-4.0
+Eminem - Till I Collapse,Workout,85.0,55.0,10.0,-3.0
+Survivor - Eye of the Tiger,Workout,60.0,82.0,55.0,-9.0
+Kanye West - Stronger,Workout,72.0,62.0,50.0,-8.0
+Imagine Dragons - Believer,Workout,78.0,78.0,67.0,-4.0
+Travis Scott - Goosebumps,Workout,59.0,84.0,81.0,-8.0
+Eminem - Lose Yourself,Workout,74.0,69.0,6.0,-5.0
+Fort Minor - Remember the Name,Workout,84.0,69.0,88.0,-4.0
+Linkin Park - Numb,Workout,80.0,69.0,80.0,-4.0
+Jay-Z - Niggas in Paris,Workout,35.0,75.0,32.0,-18.0
+Kendrick Lamar - Humble,Workout,45.0,76.0,97.0,-11.0
+Drake - God's Plan,Workout,45.0,75.0,36.0,-9.0
+OutKast - B.O.B.,Workout,98.0,75.0,65.0,-5.0
+The White Stripes - Seven Nation Army,Workout,45.0,74.0,28.0,-8.0
+AC/DC - Thunderstruck,Workout,89.0,50.0,26.0,-5.0
+Guns N' Roses - Welcome to the Jungle,Workout,99.0,45.0,32.0,-4.0
+Queen - We Will Rock You,Workout,50.0,69.0,47.0,-7.0
+DMX - X Gon' Give It To Ya,Workout,90.0,76.0,67.0,-3.0
+50 Cent - In Da Club,Workout,72.0,90.0,81.0,-3.0
+Usher - DJ Got Us Fallin' In Love,Workout,86.0,66.0,65.0,-3.0
+Pitbull - Hotel Room Service,Workout,63.0,85.0,79.0,-8.0
+Skrillex - Bangarang,Workout,97.0,72.0,58.0,-2.0
+DJ Snake - Turn Down for What,Workout,80.0,82.0,8.0,-4.0
+The Prodigy - Smack My Bitch Up,Workout,100.0,60.0,26.0,-4.0
+Darude - Sandstorm,Workout,97.0,53.0,59.0,-8.0
+Swedish House Mafia - Greyhound,Workout,81.0,72.0,54.0,-5.0
+Martin Garrix - Animals,Workout,87.0,68.0,4.0,-6.0
+Fisher - Losing It,Workout,96.0,76.0,64.0,-6.0
+Tiesto - The Business,Workout,62.0,80.0,24.0,-7.0
+David Guetta - Sexy Bitch,Workout,63.0,81.0,80.0,-5.0
+Calvin Harris - This Is What You Came For,Workout,93.0,63.0,47.0,-3.0
+Imagine Dragons - Radioactive,Workout,78.0,45.0,24.0,-4.0
+Fall Out Boy - Centuries,Workout,86.0,39.0,56.0,-3.0
+Panic! At The Disco - High Hopes,Workout,90.0,58.0,68.0,-3.0
+Twenty One Pilots - Stressed Out,Workout,64.0,73.0,65.0,-6.0
+Machine Gun Kelly - my ex's best friend,Workout,68.0,73.0,30.0,-5.0
+Post Malone - Rockstar,Workout,46.0,54.0,4.0,-11.0
+Roddy Ricch - The Box,Workout,59.0,90.0,64.0,-7.0
+DaBaby - Rockstar,Workout,50.0,83.0,93.0,-11.0
+Megan Thee Stallion - Savage,Workout,74.0,82.0,64.0,-5.0
+Cardi B - Bodak Yellow,Workout,70.0,93.0,49.0,-6.0
+Azaelia Banks - 212,Workout,77.0,85.0,62.0,-6.0
+Kanye West - Power,Workout,97.0,44.0,14.0,-1.0
+J. Cole - Middle Child,Workout,48.0,80.0,14.0,-11.0
+Travis Scott - Sicko Mode,Workout,94.0,74.0,89.0,-6.0
+Future - Mask Off,Workout,43.0,83.0,28.0,-9.0
+Migos - Walk It Talk It,Workout,63.0,91.0,40.0,-5.0
+Lil Nas X - Industry Baby,Workout,2.0,58.0,16.0,-28.0
+Jack Harlow - First Class,Workout,58.0,90.0,33.0,-6.0
+Lizzo - About Damn Time,Workout,74.0,84.0,72.0,-6.0
+Dua Lipa - Physical,Workout,84.0,65.0,75.0,-4.0
+Anirudh Ravichander - Neruppu Da,Workout,84.0,58.0,48.0,-4.0
+Arunraja Kamaraj - Kabali Theme,Workout,59.0,64.0,22.0,-13.0
+Santhosh Narayanan - Neruppu Da,Workout,84.0,58.0,48.0,-4.0
+Anirudh Ravichander - Hukum,Workout,89.0,72.0,53.0,-6.0
+Yuvan Shankar Raja - Billa Theme,Workout,41.0,52.0,12.0,-10.0
+Thaman S - Akhanda Title Track,Workout,95.0,27.0,54.0,-5.0
+M. M. Keeravani - Dosti,Workout,65.0,68.0,56.0,-9.0
+Devi Sri Prasad - Singam Title Track,Workout,69.0,69.0,88.0,-4.0
+Sukhwinder Singh - Chak De India,Workout,89.0,76.0,80.0,-9.0
+Shankar Mahadevan - Lakshya,Workout,74.0,64.0,73.0,-7.0
+Sultan - Sultan Title Track,Workout,91.0,68.0,19.0,-4.0
+Vishal Dadlani - Zinda (Bhaag Milkha Bhaag),Workout,70.0,61.0,60.0,-7.0
+Divine - Apna Time Aayega,Workout,62.0,77.0,51.0,-9.0
+Brodha V - Aigiri Nandini,Workout,84.0,77.0,76.0,-3.0
+Raftaar - Swag Mera Desi,Workout,72.0,83.0,70.0,-8.0
+KR$NA - Roll Up,Workout,60.0,76.0,40.0,-9.0
+Seedhe Maut - Namastute,Workout,84.0,78.0,75.0,-6.0
+Bloodywood - Ari Ari,Workout,95.0,46.0,44.0,-8.0
+The Local Train - Aakhri Salaam,Workout,65.0,47.0,50.0,-9.0
+Avial - Nada Nada,Workout,99.0,75.0,75.0,-2.0
+Thaikkudam Bridge - Navarasam,Workout,78.0,36.0,11.0,-7.0
+Job Kurian - Enthavo,Workout,51.0,66.0,50.0,-7.0
+Linkin Park - Faint,Workout,98.0,55.0,61.0,-4.0
+Linkin Park - One Step Closer,Workout,97.0,49.0,54.0,-4.0
+Disturbed - Down With The Sickness,Workout,88.0,70.0,94.0,-4.0
+System of A Down - Chop Suey!,Workout,93.0,42.0,29.0,-4.0
+Rage Against The Machine - Killing In The Name,Workout,83.0,47.0,66.0,-4.0
+Slipknot - Psychosocial,Workout,98.0,57.0,31.0,-4.0
+Pantera - Walk,Workout,70.0,43.0,70.0,-8.0
+Metallica - Enter Sandman,Workout,83.0,57.0,62.0,-8.0
+Slayer - Raining Blood,Workout,100.0,23.0,4.0,-4.0
+Megadeth - Symphony of Destruction,Workout,89.0,61.0,51.0,-5.0
+Iron Maiden - The Trooper,Workout,91.0,29.0,66.0,-5.0
+Motorhead - Ace of Spades,Workout,99.0,32.0,20.0,-4.0
+Judas Priest - Breaking the Law,Workout,96.0,36.0,49.0,-6.0
+Black Sabbath - Paranoid,Workout,63.0,43.0,38.0,-12.0
+AC/DC - Back In Black,Workout,70.0,31.0,76.0,-6.0
+Guns N' Roses - Paradise City,Workout,98.0,27.0,39.0,-6.0
+Nirvana - Smells Like Teen Spirit,Workout,91.0,50.0,72.0,-5.0
+Foo Fighters - The Pretender,Workout,96.0,43.0,37.0,-4.0
+Red Hot Chili Peppers - Can't Stop,Workout,94.0,62.0,88.0,-3.0
+Queens of the Stone Age - No One Knows,Workout,59.0,51.0,64.0,-5.0
+Wolfmother - Woman,Workout,95.0,22.0,17.0,-4.0
+Royal Blood - Figure It Out,Workout,81.0,66.0,69.0,-5.0
+Imagine Dragons - Natural,Workout,61.0,70.0,22.0,-6.0
+Fall Out Boy - My Songs Know What You Did In The Dark,Workout,92.0,56.0,57.0,-4.0
+The Score - Legend,Workout,76.0,60.0,46.0,-3.0
+Zayde Wolf - Gladiator,Workout,78.0,54.0,51.0,-6.0
+Neffex - Fight Back,Workout,95.0,72.0,59.0,-3.0
+2WEI - Survivor,Workout,54.0,35.0,10.0,-10.0
+Rob Bailey - Beast,Workout,79.0,60.0,58.0,-7.0
+Roy Jones Jr - Can't Be Touched,Workout,78.0,64.0,41.0,-5.0
+DMX - Party Up,Workout,93.0,51.0,53.0,-3.0
+50 Cent - Candy Shop,Workout,57.0,61.0,76.0,-8.0
+Eminem - Not Afraid,Workout,95.0,86.0,67.0,-1.0
+Eminem - Rap God,Workout,84.0,71.0,63.0,-3.0
+Dr. Dre - Still D.R.E.,Workout,78.0,82.0,53.0,-3.0
+Snoop Dogg - Drop It Like It's Hot,Workout,63.0,89.0,66.0,-4.0
+Ice Cube - It Was A Good Day,Workout,74.0,80.0,79.0,-5.0
+2Pac - California Love,Workout,85.0,76.0,76.0,-3.0
+Notorious B.I.G. - Hypnotize,Workout,69.0,90.0,63.0,-4.0
+Wu-Tang Clan - C.R.E.A.M.,Workout,51.0,51.0,56.0,-12.0
+"Mobb Deep - Shook Ones, Pt. II",Workout,79.0,76.0,50.0,-6.0
+Nas - N.Y. State of Mind,Workout,91.0,67.0,89.0,-5.0
+Jay-Z - 99 Problems,Workout,89.0,49.0,55.0,-4.0
+Kanye West - Black Skinhead,Workout,81.0,77.0,33.0,-6.0
+Kendrick Lamar - DNA.,Workout,52.0,64.0,42.0,-7.0
+J. Cole - No Role Modelz,Workout,52.0,69.0,49.0,-8.0
+Drake - Nonstop,Workout,41.0,91.0,42.0,-8.0
+Travis Scott - Antidote,Workout,53.0,71.0,12.0,-5.0
+Migos - Stir Fry,Workout,82.0,82.0,51.0,-5.0
+ASAP Rocky - Praise The Lord,Workout,57.0,85.0,29.0,-8.0
+Meek Mill - Dreams and Nightmares,Workout,77.0,63.0,44.0,-2.0
+Rick Ross - B.M.F.,Workout,86.0,72.0,36.0,-4.0
+Ace Hood - Bugatti,Workout,59.0,60.0,7.0,-5.0
+DJ Khaled - All I Do Is Win,Workout,78.0,54.0,28.0,-4.0
+Desiigner - Panda,Workout,73.0,69.0,27.0,-6.0
+Sheck Wes - Mo Bamba,Workout,63.0,73.0,26.0,-5.0
+Pop Smoke - Dior,Workout,81.0,55.0,65.0,-6.0
+Ski Mask The Slump God - Catch Me Outside,Workout,68.0,94.0,62.0,-6.0
+Lil Pump - Boss,Workout,79.0,80.0,65.0,-3.0
+Playboi Carti - Magnolia,Workout,58.0,79.0,44.0,-7.0
+The Weeknd - Starboy,Workout,59.0,68.0,49.0,-7.0
+"Daft Punk - Harder, Better, Faster, Stronger",Workout,72.0,82.0,69.0,-9.0
+Chemical Brothers - Galvanize,Workout,76.0,60.0,56.0,-6.0
+Knife Party - Bonfire,Workout,94.0,54.0,59.0,-3.0
+Skrillex - Scary Monsters and Nice Sprites,Workout,94.0,52.0,32.0,-4.0
+Excision - Throwin' Elbows,Workout,94.0,57.0,36.0,-3.0
+Justin Timberlake - Can't Stop the Feeling!,Party,27.0,76.0,37.0,-17.0
+Bruno Mars - 24K Magic,Party,80.0,82.0,63.0,-4.0
+Lady Gaga - Just Dance,Party,74.0,82.0,75.0,-5.0
+Flo Rida - Low,Party,61.0,92.0,30.0,-6.0
+LMFAO - Party Rock Anthem,Party,73.0,75.0,36.0,-4.0
+Avicii - Wake Me Up,Party,78.0,53.0,64.0,-6.0
+Miley Cyrus - Party in the U.S.A.,Party,70.0,65.0,47.0,-5.0
+Taio Cruz - Dynamite,Party,80.0,75.0,82.0,-3.0
+Nicki Minaj - Starships,Party,72.0,75.0,75.0,-2.0
+Jennifer Lopez - On The Floor,Party,78.0,73.0,59.0,-5.0
+David Guetta - Titanium,Party,91.0,45.0,3.0,-7.0
+Carly Rae Jepsen - Call Me Maybe,Party,58.0,78.0,66.0,-7.0
+Walk the Moon - Shut Up and Dance,Party,87.0,58.0,62.0,-4.0
+DNCE - Cake By The Ocean,Party,75.0,77.0,90.0,-5.0
+Maroon 5 - Sugar,Party,79.0,75.0,88.0,-7.0
+BTS - Dynamite,Party,77.0,75.0,74.0,-4.0
+Lizzo - Juice,Party,89.0,77.0,84.0,-3.0
+Doja Cat - Say So,Party,67.0,79.0,78.0,-5.0
+Shawn Mendes - There's Nothing Holdin' Me Back,Party,81.0,87.0,97.0,-4.0
+Ed Sheeran - Shivers,Party,86.0,79.0,82.0,-3.0
+The Kid LAROI - Stay,Party,69.0,51.0,19.0,-9.0
+Jason Derulo - Want to Want Me,Party,68.0,78.0,66.0,-6.0
+Sia - Cheap Thrills,Party,70.0,63.0,73.0,-6.0
+Major Lazer - Lean On,Party,81.0,72.0,27.0,-3.0
+The Chainsmokers - Closer,Party,52.0,75.0,66.0,-6.0
+Drake - One Dance,Party,63.0,79.0,37.0,-6.0
+Shakira - Hips Don't Lie,Party,82.0,78.0,76.0,-6.0
+Daddy Yankee - Gasolina,Party,80.0,85.0,74.0,-7.0
+Anirudh Ravichander - Arabic Kuthu,Party,76.0,61.0,63.0,-7.0
+M. M. Keeravani - Naatu Naatu,Party,99.0,41.0,70.0,-4.0
+Thaman S - Ranjithame,Party,98.0,55.0,66.0,-6.0
+Anirudh Ravichander - Vaathi Coming,Party,95.0,64.0,59.0,-4.0
+Mika Singh - Subha Hone Na De,Party,90.0,73.0,51.0,-5.0
+Sukhbir - Ishq Tera Tadpave,Party,90.0,72.0,82.0,-8.0
+J Balvin - Mi Gente,Party,72.0,76.0,47.0,-6.0
+Daddy Yankee - Dura,Party,80.0,77.0,85.0,-3.0
+Bad Bunny - Tití Me Preguntó,Party,72.0,65.0,19.0,-5.0
+Rauw Alejandro - Todo De Ti,Party,72.0,78.0,34.0,-4.0
+Farruko - Pepas,Party,77.0,76.0,44.0,-4.0
+Karol G - Tusa,Party,72.0,80.0,57.0,-3.0
+Shakira - Waka Waka,Party,87.0,71.0,83.0,-5.0
+Daft Punk - Get Lucky,Party,79.0,81.0,86.0,-9.0
+Pharrell Williams - Happy,Party,82.0,65.0,96.0,-5.0
+Sunidhi Chauhan - Dhoom Machale,Party,92.0,78.0,49.0,-5.0
+A.R. Rahman - Jai Ho,Party,94.0,66.0,88.0,-4.0
+Tanishk Bagchi - Aankh Marey,Party,98.0,80.0,80.0,-1.0
+Yuvan Shankar Raja - Mankatha Theme,Party,38.0,68.0,20.0,-7.0
+Benny Dayal - Omana Penne,Party,73.0,69.0,66.0,-8.0
+Gopi Sundar - Guleba,Party,82.0,45.0,60.0,-7.0
+Shaan - Chand Sifarish,Party,67.0,83.0,86.0,-8.0
+Bappi Lahiri - Jimmy Jimmy Aaja Aaja,Party,55.0,86.0,72.0,-10.0
+Nazia Hassan - Disco Deewane,Party,47.0,73.0,96.0,-10.0
+Abba - Dancing Queen,Party,87.0,54.0,75.0,-7.0
+"Earth, Wind & Fire - September",Party,83.0,70.0,98.0,-7.0
+The Killers - Mr. Brightside,Party,91.0,35.0,24.0,-5.0
+Franz Ferdinand - Take Me Out,Party,66.0,28.0,53.0,-9.0
+Major Lazer - Light It Up,Party,88.0,75.0,75.0,-4.0
+DJ Snake - Taki Taki,Party,80.0,84.0,62.0,-4.0
+David Guetta - Play Hard,Party,92.0,69.0,80.0,-2.0
+Martin Garrix - Tremor,Party,94.0,63.0,40.0,-4.0
+Marshmello - Alone,Party,95.0,63.0,42.0,-4.0
+Clean Bandit - Symphony,Party,63.0,71.0,46.0,-5.0
+XXXTENTACION - Look At Me!,Workout,73.0,76.0,35.0,-6.0
+Lil Uzi Vert - XO Tour Llif3,Workout,75.0,73.0,40.0,-6.0
+Juice WRLD - Lucid Dreams,Workout,57.0,51.0,22.0,-7.0
+Post Malone - Congratulations,Workout,80.0,63.0,49.0,-4.0
+Pendulum - Propane Nightmares,Workout,97.0,36.0,22.0,-4.0
+Marshmello - Keep It Mello,Workout,89.0,68.0,11.0,-3.0
+Alan Walker - Faded,Workout,65.0,59.0,17.0,-5.0
+The Glitch Mob - Seven Nation Army Remix,Workout,84.0,70.0,20.0,-7.0
+League of Legends - Legends Never Die,Workout,60.0,50.0,6.0,-7.0
+Imagine Dragons - Warriors,Workout,85.0,37.0,31.0,-6.0
+K/DA - POP/STARS,Workout,77.0,56.0,39.0,-4.0
+Stray Kids - Miroh,Workout,61.0,85.0,91.0,-9.0
+ATEEZ - Wonderland,Workout,85.0,55.0,33.0,-7.0
+NCT 127 - Kick It,Workout,84.0,68.0,50.0,-3.0
+Monsta X - Hero,Workout,59.0,79.0,32.0,-14.0
+EXO - Monster,Workout,76.0,62.0,54.0,-4.0
+BTS - Mic Drop,Workout,9.0,72.0,42.0,-26.0
+Agust D - Daechwita,Workout,83.0,65.0,22.0,-4.0
+J-Hope - Chicken Noodle Soup,Workout,82.0,83.0,17.0,-4.0
+Lisa - Money,Workout,7.0,56.0,33.0,-22.0
+Jessi - Nunu Nana,Workout,57.0,66.0,14.0,-9.0
+Zico - Any Song,Workout,79.0,87.0,90.0,-2.0
+Epik High - Born Hater,Workout,78.0,80.0,87.0,-6.0
+Keith Ape - It G Ma,Workout,37.0,96.0,15.0,-11.0
+Rich Brian - Dat $tick,Workout,51.0,92.0,17.0,-9.0
+Higher Brothers - Made In China,Workout,53.0,84.0,19.0,-5.0
+Teriyaki Boyz - Tokyo Drift,Workout,90.0,76.0,94.0,-5.0
+Hans Zimmer - Mombasa,Workout,83.0,51.0,34.0,-13.0
+Junkie XL - Brothers In Arms,Workout,44.0,22.0,13.0,-9.0
+Two Steps From Hell - Heart of Courage,Workout,59.0,39.0,18.0,-9.0
+Hans Zimmer - Supermarine,Workout,87.0,55.0,15.0,-13.0
+Ludwig Goransson - Tenet,Workout,72.0,75.0,21.0,-6.0
+Brian Tyler - Fast Five Theme,Workout,78.0,25.0,18.0,-10.0
+Steve Jablonsky - Arrival To Earth,Workout,38.0,10.0,7.0,-16.0
+Tom Holkenborg - Mad Max Fury Road,Workout,89.0,25.0,29.0,-6.0
+Ludovico Einaudi - Nuvole Bianche,Study,6.0,19.0,5.0,-25.0
+Yiruma - River Flows in You,Study,22.0,32.0,12.0,-21.0
+Erik Satie - Gymnopédie No.1,Study,1.0,47.0,36.0,-37.0
+Beethoven - Moonlight Sonata,Study,2.0,31.0,14.0,-36.0
+Mozart - Piano Concerto No. 21,Study,2.0,16.0,6.0,-30.0
+Chopin - Nocturne Op. 9 No. 2,Study,1.0,45.0,8.0,-31.0
+Bach - Cello Suite No. 1,Study,14.0,37.0,81.0,-21.0
+Max Richter - On the Nature of Daylight,Study,34.0,7.0,3.0,-13.0
+Brian Eno - An Ending (Ascent),Study,9.0,26.0,5.0,-25.0
+Aphex Twin - Avril 14th,Study,3.0,56.0,37.0,-30.0
+Tycho - Awake,Study,88.0,55.0,60.0,-6.0
+Bonobo - Cirrus,Study,84.0,64.0,36.0,-8.0
+Four Tet - Lush,Study,67.0,66.0,64.0,-10.0
+Explosions in the Sky - Your Hand in Mine,Study,50.0,27.0,12.0,-15.0
+Sigur Ros - Hoppipolla,Study,25.0,18.0,3.0,-19.0
+The xx - Intro,Study,78.0,62.0,15.0,-9.0
+M83 - Midnight City (Ambient Mix),Study,71.0,53.0,32.0,-7.0
+Radiohead - Treefingers,Study,15.0,17.0,6.0,-21.0
+Boards of Canada - Dayvan Cowboy,Study,62.0,32.0,4.0,-11.0
+Nils Frahm - Says,Study,23.0,22.0,7.0,-13.0
+Olafur Arnalds - Near Light,Study,35.0,48.0,9.0,-15.0
+Joep Beving - Sleeping Lotus,Study,3.0,31.0,19.0,-27.0
+Hania Rani - Eden,Study,18.0,44.0,4.0,-25.0
+Alexis Ffrench - Bluebird,Study,11.0,45.0,8.0,-21.0
+Yann Tiersen - Comptine d'un autre été,Study,19.0,48.0,5.0,-15.0
+Ryuichi Sakamoto - Merry Christmas Mr. Lawrence,Study,18.0,49.0,28.0,-18.0
+The Weeknd - Blinding Lights,Party,73.0,51.0,33.0,-6.0
+Calvin Harris - Summer,Party,86.0,60.0,74.0,-4.0
+One Direction - What Makes You Beautiful,Party,79.0,73.0,89.0,-2.0
+Harry Styles - Watermelon Sugar,Party,82.0,55.0,56.0,-4.0
+Nakash Aziz - Saami Saami,Party,79.0,77.0,81.0,-6.0
+Benny Dayal - Badtameez Dil,Party,93.0,81.0,79.0,-2.0
+Mano - Mukkala Muqabla,Party,83.0,75.0,75.0,-7.0
+Ramin Djawadi - Pacific Rim,Workout,69.0,57.0,53.0,-9.0
+Hans Zimmer - Time,Study,10.0,29.0,4.0,-17.0
+Hans Zimmer - Interstellar Main Theme,Study,2.0,31.0,7.0,-28.0
+Debussy - Clair de Lune,Study,3.0,31.0,4.0,-24.0
+Johann Pachelbel - Canon in D,Study,26.0,40.0,34.0,-12.0
+Post Malone - Circles,Party,76.0,70.0,55.0,-3.0
+Harris Jayaraj - Danka Maari,Workout,85.0,34.0,52.0,-5.0
+Ludovico Einaudi - Experience,Study,45.0,45.0,4.0,-11.0
+Mozart - Turkish March,Study,9.0,57.0,96.0,-23.0
+Vivaldi - Four Seasons Spring,Study,14.0,32.0,30.0,-16.0
+John Williams - Hedwig's Theme,Study,16.0,16.0,8.0,-17.0
+Ramin Djawadi - Light of the Seven,Study,10.0,27.0,6.0,-17.0
+The Weeknd - Call Out My Name,Study,59.0,46.0,17.0,-5.0
+Post Malone - Stay,Study,48.0,51.0,35.0,-5.0
+Frank Ocean - Pink + White,Study,55.0,55.0,55.0,-7.0
+Joji - Slow Dancing in the Dark,Study,8.0,31.0,8.0,-25.0
+Lofi Girl - Study Relax,Study,16.0,82.0,67.0,-13.0
+ChilledCow - Lofi Hip Hop,Study,84.0,75.0,79.0,-9.0
+Nujabes - Aruarian Dance,Study,31.0,61.0,48.0,-19.0
+Powfu - Death Bed,Study,75.0,54.0,70.0,-10.0
+Kina - Get You The Moon,Study,24.0,50.0,9.0,-17.0
+XXXTENTACION - Jocelyn Flores,Study,39.0,87.0,44.0,-9.0
+Harry Styles - Falling,Study,27.0,57.0,6.0,-7.0
+Sam Smith - Stay With Me,Study,42.0,41.0,19.0,-6.0
+Adele - Easy On Me,Study,37.0,60.0,13.0,-8.0
+Ed Sheeran - Supermarket Flowers,Study,24.0,59.0,26.0,-11.0
+Lewis Capaldi - Before You Go,Study,57.0,46.0,18.0,-5.0
+Coldplay - The Scientist,Study,44.0,56.0,21.0,-7.0
+Radiohead - No Surprises,Study,10.0,62.0,16.0,-20.0
+Pink Floyd - Wish You Were Here,Study,57.0,57.0,29.0,-8.0
+The Beatles - Yesterday,Study,1.0,53.0,16.0,-26.0
+Elton John - Rocket Man,Study,10.0,88.0,71.0,-17.0
+Simon & Garfunkel - The Sound of Silence,Study,82.0,91.0,49.0,-5.0
+Tracy Chapman - Fast Car,Study,29.0,71.0,19.0,-16.0
+Fleetwood Mac - Landslide,Study,16.0,41.0,42.0,-22.0
+Eagles - Hotel California (Acoustic),Study,49.0,55.0,61.0,-11.0
+Eric Clapton - Tears In Heaven,Study,24.0,50.0,31.0,-12.0
+Plain White T's - Hey There Delilah,Study,29.0,66.0,30.0,-11.0
+Train - Marry Me,Study,27.0,46.0,48.0,-9.0
+Jason Mraz - I'm Yours,Study,44.0,70.0,71.0,-9.0
+Jack Johnson - Better Together,Study,35.0,87.0,66.0,-10.0
+Vance Joy - Riptide,Study,73.0,48.0,51.0,-7.0
+Joe Hisaishi - Merry-Go-Round of Life,Study,29.0,24.0,19.0,-13.0
+Nobuo Uematsu - To Zanarkand,Study,4.0,43.0,9.0,-20.0
+Koji Kondo - Zelda's Lullaby,Study,12.0,25.0,27.0,-16.0
+C418 - Sweden,Study,1.0,64.0,20.0,-25.0
+C418 - Subwoofer Lullaby,Study,1.0,33.0,4.0,-24.0
+Toby Fox - Undertale,Study,41.0,55.0,37.0,-15.0
+Christopher Larkin - Hollow Knight,Study,3.0,22.0,14.0,-27.0
+Lena Raine - Pigstep,Study,92.0,62.0,53.0,-3.0
+Howard Shore - The Shire,Study,1.0,45.0,16.0,-24.0
+John Williams - Jurassic Park Theme,Study,13.0,14.0,6.0,-19.0
+Klaus Badelt - He's A Pirate,Study,69.0,47.0,13.0,-11.0
+Alan Silvestri - Forrest Gump Suite,Study,12.0,11.0,4.0,-16.0
+Thomas Newman - American Beauty,Study,1.0,21.0,5.0,-32.0
+Justin Hurwitz - City of Stars,Study,12.0,49.0,43.0,-15.0
+Ennio Morricone - The Ecstasy of Gold,Study,47.0,13.0,13.0,-14.0
+Gustavo Santaolalla - The Last of Us,Study,47.0,59.0,35.0,-12.0
+Philip Glass - Metamorphosis One,Study,3.0,30.0,5.0,-25.0
+Arvo Part - Spiegel im Spiegel,Study,6.0,12.0,7.0,-28.0
+Samuel Barber - Adagio for Strings,Study,7.0,10.0,3.0,-24.0
+Holst - Jupiter,Study,13.0,30.0,16.0,-21.0
+Tchaikovsky - Swan Lake Theme,Study,36.0,11.0,8.0,-9.0
+Brahms - Lullaby,Study,19.0,66.0,43.0,-29.0
+Schubert - Ave Maria,Study,6.0,21.0,5.0,-20.0
+Liszt - Liebestraum No. 3,Study,3.0,28.0,3.0,-27.0
+Rachmaninoff - Rhapsody on a Theme of Paganini,Study,6.0,17.0,4.0,-23.0
+Grieg - Morning Mood,Study,2.0,13.0,4.0,-30.0
+Handel - Messiah,Study,16.0,44.0,40.0,-16.0
+Wagner - Ride of the Valkyries,Study,23.0,23.0,7.0,-19.0
+Mendelssohn - Wedding March,Study,23.0,33.0,11.0,-12.0
+Saint-Saens - The Swan,Study,2.0,45.0,7.0,-26.0
+Debussy - Arabesque No. 1,Study,1.0,27.0,12.0,-34.0
+Satie - Gnossienne No. 1,Study,1.0,42.0,8.0,-28.0
+Beethoven - Fur Elise,Study,81.0,52.0,24.0,-4.0
+Mozart - Eine Kleine Nachtmusik,Study,11.0,52.0,44.0,-19.0
+Bach - Air on the G String,Study,9.0,6.0,5.0,-24.0
+Vivaldi - Four Seasons Winter,Study,35.0,50.0,27.0,-9.0
+Haydn - Surprise Symphony,Study,24.0,44.0,50.0,-16.0
+Stravinsky - The Rite of Spring,Study,67.0,64.0,17.0,-5.0
+Gershwin - Rhapsody in Blue,Study,18.0,31.0,8.0,-18.0
+Bernstein - West Side Story,Study,2.0,25.0,3.0,-36.0
+Andrew Lloyd Webber - Phantom of the Opera,Study,84.0,43.0,31.0,-8.0
+Stephen Sondheim - Send in the Clowns,Study,5.0,17.0,9.0,-17.0
+Lin-Manuel Miranda - Dear Theodosia,Study,22.0,60.0,27.0,-10.0
+Pasek and Paul - Rewrite The Stars,Study,62.0,68.0,28.0,-7.0
+Menken - Beauty and the Beast,Study,84.0,60.0,53.0,-5.0
+Elton John - Can You Feel The Love Tonight,Study,37.0,30.0,15.0,-9.0
+Phil Collins - You'll Be In My Heart,Study,75.0,57.0,65.0,-7.0
+Randy Newman - You've Got a Friend in Me,Study,33.0,69.0,47.0,-12.0
+Zimmer - Circle of Life,Study,39.0,40.0,57.0,-16.0
+Horner - My Heart Will Go On,Study,28.0,43.0,4.0,-12.0
+Silvestri - Portals,Study,51.0,17.0,8.0,-11.0
+Williams - Imperial March,Study,38.0,58.0,28.0,-14.0
+Giacchino - Up Theme,Study,2.0,37.0,9.0,-24.0
+Desplat - The Imitation Game,Study,31.0,32.0,6.0,-14.0
+Jablonsky - Arrival to Earth,Study,38.0,10.0,7.0,-16.0
+Powell - Test Drive,Study,58.0,26.0,24.0,-9.0
+Gregson-Williams - Chronicles of Narnia,Study,33.0,17.0,11.0,-13.0
+Djawadi - Game of Thrones Theme,Study,47.0,22.0,39.0,-15.0
+Bear McCreary - God of War,Study,35.0,23.0,10.0,-11.0
+Jeremy Soule - Dragonborn,Study,48.0,19.0,12.0,-13.0
+Martin O'Donnell - Halo Theme,Study,85.0,32.0,7.0,-9.0
+Nobuo Uematsu - One Winged Angel,Study,53.0,50.0,25.0,-8.0
+Yoko Shimomura - Dearly Beloved,Study,14.0,39.0,12.0,-16.0
+David Wise - Aquatic Ambiance,Study,23.0,28.0,8.0,-16.0
+Grant Kirkhope - Spiral Mountain,Study,50.0,70.0,81.0,-10.0
+Uematsu - Prelude,Study,43.0,25.0,4.0,-15.0
+Mitsuda - Corridors of Time,Study,77.0,49.0,79.0,-6.0
+Yasunori Mitsuda - Wind Scene,Study,35.0,50.0,40.0,-4.0
+Masato Nakamura - Green Hill Zone,Study,93.0,61.0,82.0,-5.0
+Hirokazu Tanaka - Tetris Theme,Study,97.0,76.0,97.0,-8.0
+Kazumi Totaka - Wii Shop Channel,Study,14.0,72.0,76.0,-26.0
+Manaka Kataoka - Breath of the Wild,Study,35.0,14.0,18.0,-18.0
+Hajime Wakai - Pikmin Theme,Study,27.0,46.0,4.0,-15.0
+Junichi Masuda - Pokemon Center,Study,50.0,55.0,98.0,-21.0
+Koji Kondo - Kakariko Village,Study,4.0,43.0,35.0,-26.0
+Mahito Yokota - Gusty Garden Galaxy,Study,40.0,32.0,27.0,-12.0
+Kenta Nagata - Mario Kart Theme,Study,30.0,37.0,47.0,-12.0
+Toru Minegishi - Splatoon Theme,Study,92.0,40.0,63.0,-6.0
+Kazumi Totaka - K.K. Slider,Study,17.0,57.0,23.0,-14.0
+Tomaka - Wii Sports Theme,Study,3.0,76.0,26.0,-25.0
+Soyez - Wii Fit Theme,Study,1.0,73.0,51.0,-25.0
+Yamamoto - Metroid Prime,Study,45.0,26.0,12.0,-10.0
+Hamauzu - Blinded by Light,Study,70.0,28.0,42.0,-8.0
+Shimomura - Somnus,Study,43.0,28.0,7.0,-8.0
+Soken - Answers,Study,39.0,40.0,11.0,-10.0
+Okabe - Weight of the World,Study,61.0,29.0,16.0,-11.0
+Meguro - Life Will Change,Study,92.0,70.0,63.0,-5.0
+Shoji Meguro - Beneath the Mask,Study,47.0,72.0,64.0,-12.0
+Toby Fox - Megalovania,Study,96.0,42.0,6.0,-6.0
+Christopher Larkin - Hornet,Study,36.0,62.0,64.0,-13.0
+Lena Raine - Otherside,Study,81.0,60.0,70.0,-9.0
+Gareth Coker - Ori Main Theme,Study,15.0,52.0,11.0,-21.0
+Austin Wintory - Journey,Study,28.0,62.0,38.0,-9.0
+Darren Korb - Build That Wall,Study,8.0,77.0,34.0,-12.0
+Ben Prunty - FTL Theme,Study,50.0,69.0,37.0,-9.0
+Disasterpeace - Hyper Light Drifter,Study,85.0,59.0,40.0,-11.0
+Danny Baranowsky - Crypt of the Necrodancer,Study,85.0,55.0,65.0,-7.0
+Jake Kaufman - Shovel Knight,Study,96.0,41.0,8.0,-8.0
+David Berl - Celeste Theme,Study,3.0,35.0,8.0,-24.0
+ConcernedApe - Stardew Valley Overture,Study,39.0,38.0,14.0,-18.0
+Valve - Portal Still Alive,Study,12.0,43.0,6.0,-22.0
+Ed Sheeran - Perfect,Sleep,45.0,60.0,17.0,-6.0
+Ed Sheeran - Thinking Out Loud,Sleep,45.0,78.0,59.0,-6.0
+John Legend - All of Me,Sleep,26.0,42.0,33.0,-7.0
+Adele - Someone Like You,Sleep,44.0,53.0,26.0,-7.0
+Adele - Hello,Sleep,43.0,58.0,29.0,-6.0
+Sam Smith - Too Good At Goodbyes,Sleep,37.0,72.0,47.0,-8.0
+Billie Eilish - Ocean Eyes,Sleep,42.0,66.0,14.0,-10.0
+Billie Eilish - Lovely,Sleep,19.0,53.0,7.0,-13.0
+Lewis Capaldi - Someone You Loved,Sleep,41.0,50.0,45.0,-6.0
+Bruno Mars - Talking to the Moon,Sleep,59.0,50.0,8.0,-5.0
+Coldplay - Fix You,Sleep,42.0,21.0,12.0,-9.0
+Coldplay - Yellow,Sleep,23.0,45.0,10.0,-19.0
+Zayn - Dusk Till Dawn,Sleep,44.0,26.0,10.0,-7.0
+Sia - Helium,Sleep,40.0,34.0,11.0,-7.0
+Rihanna - Stay,Sleep,31.0,62.0,13.0,-10.0
+Lady Gaga - Shallow,Sleep,39.0,58.0,33.0,-6.0
+Bruno Mars - Just the Way You Are,Sleep,84.0,64.0,42.0,-5.0
+Train - Drops of Jupiter,Sleep,64.0,48.0,50.0,-6.0
+Hoobastank - The Reason,Sleep,64.0,46.0,7.0,-6.0
+Evanescence - My Immortal,Sleep,27.0,19.0,10.0,-9.0
+Linkin Park - One More Light,Sleep,20.0,59.0,17.0,-11.0
+Guns N' Roses - November Rain,Sleep,64.0,29.0,23.0,-9.0
+The Police - Every Breath You Take,Sleep,45.0,82.0,74.0,-10.0
+U2 - With Or Without You,Sleep,43.0,54.0,11.0,-12.0
+Bryan Adams - Heaven,Sleep,59.0,38.0,33.0,-7.0
+Celine Dion - My Heart Will Go On,Sleep,28.0,43.0,4.0,-12.0
+Elvis Presley - Can't Help Falling in Love,Sleep,44.0,9.0,14.0,-10.0
+Frank Sinatra - Fly Me To The Moon,Sleep,30.0,62.0,38.0,-12.0
+Louis Armstrong - What a Wonderful World,Sleep,17.0,27.0,20.0,-21.0
+Ben E. King - Stand By Me,Sleep,31.0,65.0,61.0,-9.0
+The Beatles - Let It Be,Sleep,40.0,44.0,41.0,-8.0
+John Lennon - Imagine,Sleep,26.0,55.0,17.0,-12.0
+Bob Dylan - Knockin' on Heaven's Door,Sleep,40.0,51.0,23.0,-13.0
+Leonard Cohen - Hallelujah,Sleep,34.0,28.0,23.0,-13.0
+Don McLean - Vincent,Sleep,9.0,40.0,46.0,-19.0
+James Taylor - You've Got a Friend,Sleep,28.0,70.0,45.0,-15.0
+Norah Jones - Don't Know Why,Sleep,22.0,75.0,64.0,-11.0
+Etta James - At Last,Sleep,35.0,27.0,33.0,-9.0
+Aretha Franklin - Natural Woman,Sleep,27.0,60.0,41.0,-10.0
+Otis Redding - Dock of the Bay,Sleep,37.0,77.0,53.0,-11.0
+Al Green - Let's Stay Together,Sleep,40.0,76.0,51.0,-11.0
+Marvin Gaye - What's Going On,Sleep,72.0,28.0,83.0,-10.0
+Bill Withers - Ain't No Sunshine,Sleep,42.0,53.0,52.0,-11.0
+Stevie Wonder - Lately,Sleep,15.0,45.0,27.0,-17.0
+Prince - Purple Rain,Sleep,45.0,37.0,18.0,-10.0
+George Michael - Careless Whisper,Sleep,64.0,57.0,79.0,-9.0
+Sade - Smooth Operator,Sleep,58.0,73.0,96.0,-7.0
+Michael Jackson - Human Nature,Sleep,41.0,63.0,76.0,-14.0
+Lionel Richie - Hello,Sleep,25.0,49.0,6.0,-14.0
+Commodores - Easy,Sleep,39.0,59.0,36.0,-15.0
+Bee Gees - How Deep Is Your Love,Sleep,36.0,63.0,67.0,-9.0
+Carpenters - Close to You,Sleep,24.0,53.0,24.0,-15.0
+Simon & Garfunkel - Bridge Over Troubled Water,Sleep,43.0,47.0,58.0,-13.0
+Cat Stevens - Father and Son,Sleep,33.0,50.0,37.0,-12.0
+Joni Mitchell - Both Sides Now,Sleep,14.0,19.0,13.0,-14.0
+Fleetwood Mac - Songbird,Sleep,8.0,58.0,39.0,-16.0
+Elton John - Tiny Dancer,Sleep,43.0,41.0,28.0,-11.0
+Billy Joel - Vienna,Sleep,50.0,53.0,31.0,-7.0
+Eagles - Desperado,Sleep,22.0,23.0,18.0,-13.0
+Kansas - Dust in the Wind,Sleep,32.0,48.0,39.0,-11.0
+Don Henley - Boys of Summer,Sleep,70.0,52.0,91.0,-10.0
+Chicago - You're the Inspiration,Sleep,58.0,60.0,38.0,-7.0
+REO Speedwagon - Keep on Loving You,Sleep,72.0,31.0,41.0,-6.0
+Journey - Faithfully,Sleep,60.0,42.0,23.0,-6.0
+Toto - Africa (Acoustic),Sleep,84.0,56.0,41.0,-10.0
+Cyndi Lauper - Time After Time,Sleep,45.0,73.0,29.0,-9.0
+Bangles - Eternal Flame,Sleep,36.0,53.0,40.0,-7.0
+Wham! - Last Christmas,Sleep,48.0,74.0,95.0,-12.0
+Phil Collins - In the Air Tonight,Sleep,24.0,45.0,30.0,-14.0
+Sting - Fields of Gold,Sleep,34.0,65.0,32.0,-12.0
+R.E.M. - Everybody Hurts,Sleep,32.0,47.0,17.0,-10.0
+Oasis - Wonderwall,Sleep,6.0,46.0,7.0,-24.0
+The Verve - Bitter Sweet Symphony,Sleep,92.0,36.0,52.0,-6.0
+Snow Patrol - Run,Sleep,64.0,39.0,20.0,-6.0
+Keane - Bedshaped,Sleep,41.0,34.0,7.0,-7.0
+Travis - Sing,Sleep,91.0,33.0,26.0,-5.0
+Jeff Buckley - Hallelujah,Sleep,14.0,32.0,8.0,-10.0
+Red Hot Chili Peppers - Under the Bridge,Sleep,35.0,56.0,46.0,-13.0
+Nirvana - Something in the Way,Sleep,20.0,43.0,7.0,-13.0
+Stone Temple Pilots - Plush (Acoustic),Sleep,36.0,64.0,28.0,-11.0
+Alice in Chains - Nutshell,Sleep,56.0,38.0,16.0,-10.0
+Foo Fighters - Everlong (Acoustic),Sleep,34.0,64.0,55.0,-11.0
+Green Day - Good Riddance,Sleep,43.0,48.0,65.0,-8.0
+Incubus - Drive,Sleep,27.0,67.0,42.0,-10.0
+Lifehouse - Hanging by a Moment,Sleep,86.0,54.0,44.0,-5.0
+The Calling - Wherever You Will Go,Sleep,72.0,56.0,37.0,-5.0
+Goo Goo Dolls - Iris,Sleep,72.0,32.0,50.0,-8.0
+Matchbox Twenty - Unwell,Sleep,79.0,44.0,44.0,-5.0
+Daughtry - Home,Sleep,85.0,44.0,34.0,-4.0
+Five for Fighting - 100 Years,Sleep,57.0,64.0,28.0,-7.0
+Daniel Powter - Bad Day,Sleep,79.0,60.0,52.0,-4.0
+The Fray - You Found Me,Sleep,80.0,34.0,40.0,-5.0
+OneRepublic - Apologize,Sleep,60.0,65.0,10.0,-6.0
+Timbaland - Apologize,Sleep,60.0,65.0,10.0,-6.0
+Leona Lewis - Bleeding Love,Sleep,66.0,64.0,23.0,-6.0
+Beyonce - Halo,Sleep,72.0,51.0,47.0,-6.0
+Alicia Keys - If I Ain't Got You,Sleep,44.0,61.0,17.0,-9.0
+Usher - Burn,Sleep,48.0,80.0,69.0,-7.0
+Chris Brown - With You,Sleep,69.0,66.0,66.0,-4.0
+Rihanna - Take a Bow,Sleep,47.0,52.0,56.0,-8.0
+Katy Perry - The One That Got Away,Sleep,79.0,69.0,86.0,-4.0
+Taylor Swift - All Too Well,Sleep,29.0,59.0,19.0,-10.0
+Lorde - Ribs,Sleep,47.0,53.0,4.0,-9.0
+Halsey - Sorry,Sleep,25.0,51.0,35.0,-9.0
+Julia Michaels - Issues,Sleep,42.0,73.0,46.0,-7.0
+Camila Cabello - Consequences,Sleep,29.0,46.0,43.0,-7.0
+Selena Gomez - Lose You to Love Me,Sleep,34.0,52.0,10.0,-9.0
+Demi Lovato - Stone Cold,Sleep,45.0,42.0,36.0,-8.0
+Miley Cyrus - The Climb,Sleep,59.0,33.0,33.0,-7.0
+Kelly Clarkson - Because of You,Sleep,58.0,58.0,14.0,-5.0
+Carrie Underwood - Jesus Take the Wheel,Sleep,52.0,36.0,14.0,-4.0
+Rascal Flatts - Bless the Broken Road,Sleep,45.0,59.0,34.0,-6.0
+Lady A - Need You Now,Sleep,62.0,59.0,23.0,-6.0
+Lonestar - Amazed,Sleep,54.0,56.0,24.0,-8.0
+Shania Twain - You're Still the One,Sleep,49.0,59.0,63.0,-9.0
+Faith Hill - Breathe,Sleep,50.0,53.0,28.0,-9.0
+Dixie Chicks - Landslide,Sleep,44.0,57.0,44.0,-7.0
+Brad Paisley - Whiskey Lullaby,Sleep,35.0,59.0,17.0,-11.0
+Tim McGraw - Humble and Kind,Sleep,48.0,36.0,14.0,-7.0
+Kenny Chesney - There Goes My Life,Sleep,48.0,58.0,22.0,-8.0
+Alan Jackson - Remember When,Sleep,31.0,56.0,28.0,-11.0
+Garth Brooks - The Dance,Sleep,21.0,56.0,13.0,-13.0
+Brooks & Dunn - Believe,Sleep,22.0,60.0,21.0,-10.0
+Johnny Cash - Hurt,Sleep,39.0,53.0,16.0,-8.0
+Willie Nelson - Always on My Mind,Sleep,26.0,52.0,20.0,-14.0
+Loretta Lynn - Coal Miner's Daughter,Sleep,47.0,60.0,63.0,-9.0
+Hank Williams - I'm So Lonesome I Could Cry,Sleep,22.0,68.0,65.0,-13.0
+Ray Charles - Georgia on My Mind,Sleep,40.0,14.0,30.0,-9.0
+Nina Simone - Feeling Good,Sleep,33.0,45.0,55.0,-9.0
+Ella Fitzgerald - Misty,Sleep,11.0,36.0,23.0,-14.0
+Billie Holiday - Strange Fruit,Sleep,4.0,31.0,6.0,-23.0
+Sarah Vaughan - Misty,Sleep,20.0,21.0,14.0,-14.0
+Nat King Cole - Unforgettable,Sleep,29.0,29.0,14.0,-13.0
+Dean Martin - That's Amore,Sleep,22.0,46.0,54.0,-10.0
+Judy Garland - Over the Rainbow,Sleep,27.0,37.0,24.0,-15.0
+Julie Andrews - Edelweiss,Sleep,13.0,29.0,23.0,-16.0
+Barbra Streisand - The Way We Were,Sleep,32.0,26.0,17.0,-12.0
+Bette Midler - The Rose,Sleep,10.0,26.0,8.0,-13.0
+Sarah McLachlan - Angel,Sleep,9.0,40.0,13.0,-14.0
+Dido - White Flag,Sleep,54.0,51.0,28.0,-7.0
+Jewel - You Were Meant for Me,Sleep,33.0,62.0,21.0,-11.0
+Sheryl Crow - Strong Enough,Sleep,27.0,58.0,58.0,-15.0
+Alanis Morissette - Ironic,Sleep,60.0,50.0,39.0,-8.0
+Cranberries - Linger,Sleep,43.0,44.0,20.0,-15.0
+No Doubt - Don't Speak,Sleep,71.0,52.0,54.0,-7.0
+Sixpence None the Richer - Kiss Me,Sleep,75.0,53.0,42.0,-7.0
+Natalie Imbruglia - Torn,Sleep,89.0,57.0,61.0,-5.0
+Savage Garden - Truly Madly Deeply,Sleep,70.0,56.0,82.0,-9.0
+NSYNC - This I Promise You,Sleep,59.0,55.0,47.0,-6.0
+Westlife - My Love,Sleep,59.0,49.0,33.0,-6.0
+Boyz II Men - End of the Road,Sleep,43.0,64.0,53.0,-9.0
+K-Ci & JoJo - All My Life,Sleep,50.0,64.0,17.0,-9.0
+Brian McKnight - Back at One,Sleep,35.0,66.0,26.0,-9.0
+Luther Vandross - Dance with My Father,Sleep,34.0,74.0,23.0,-10.0
