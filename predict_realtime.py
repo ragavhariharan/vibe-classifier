@@ -10,6 +10,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import urllib.parse
 
 # --- LOAD THE COMMITTEE ---
 print("🧠 Loading the Committee...")
@@ -33,19 +34,13 @@ def get_driver():
     driver = uc.Chrome(options=options, version_main=146)
     return driver
 
-driver = get_driver()
-driver.get("https://tunebat.com/") # Load initially to trigger captcha
-
 # --- 🛑 MANUAL CHECKPOINT 🛑 ---
 print("\n" + "="*50)
-print("🚀 BROWSER LAUNCHED!")
-print("1. Go to the Chrome window.")
-print("2. If you see a 'Verify you are human' box, CLICK IT.")
-print("3. Wait until you see the actual Tunebat search bar.")
-input("👉 Press ENTER here in the terminal once the site is ready...")
+print("🚀 NOTE: Chrome will launch for each search to clear its memory.")
+print("If you hit Cloudflare, simply click 'Verify you are human'.")
 print("="*50 + "\n")
 
-def close_popups():
+def close_popups(driver):
     """Closes any extra tabs that Tunebat opens."""
     try:
         if len(driver.window_handles) > 1:
@@ -56,33 +51,27 @@ def close_popups():
         pass
 
 def get_song_stats(song_name):
-    print(f"🔎 Searching Tunebat for '{song_name}'...")
+    print(f"\n🔎 Booting isolated Scraper for '{song_name}'...")
+    driver = None
     try:
-        driver.get("https://tunebat.com/")
-        close_popups()
+        driver = get_driver()
         
-        # Search
-        try:
-            search_box = driver.find_element(By.XPATH, "//input[@type='search' or @type='text']")
-        except:
-            driver.refresh()
-            time.sleep(2)
-            search_box = driver.find_element(By.XPATH, "//input[@type='search' or @type='text']")
-            
-        search_box.clear()
-        search_box.send_keys(song_name)
-        search_box.send_keys(Keys.RETURN)
-        time.sleep(3)
+        # Initial ping to bypass stealth checks smoothly
+        driver.get("https://tunebat.com/")
+        time.sleep(2)
+        close_popups(driver)
+        
+        # Bypass the Tunebat search box UI entirely, routing directly via URL
+        search_url = f"https://tunebat.com/Search?q={urllib.parse.quote(song_name)}"
+        driver.get(search_url)
+        wait = WebDriverWait(driver, 10)
         
         # Click
-        wait = WebDriverWait(driver, 10)
         try:
-            # Try to grab structural track links
             result_link = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "a[href*='/Info/'], .search-result-item, .row.search-result a")))
             driver.execute_script("arguments[0].click();", result_link)
         except:
             try:
-                # Fallback: case-insensitive match on the first word of the song
                 first_word = song_name.split(' ')[0].lower()
                 xpath = f"//a[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), '{first_word}')]"
                 link = wait.until(EC.presence_of_element_located((By.XPATH, xpath)))
@@ -93,30 +82,51 @@ def get_song_stats(song_name):
         
         # Scrape
         try:
-            wait.until(EC.presence_of_element_located((By.CLASS_NAME, "attribute-energy")))
+            wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".ant-progress-text")))
+            time.sleep(1.5) # Crucial: Allow React to finish injecting the typography labels AFTER circles render!
         except:
             with open('dom_track.html', 'w', encoding='utf-8') as f:
                 f.write(driver.page_source)
             print("❌ Stats not found (or blocked). Saved DOM to dom_track.html")
             return None
             
-        def get_val_by_class(class_name, default=None):
+        def get_val_by_text(label_text, default=None):
             try:
-                text = driver.find_element(By.CSS_SELECTOR, f"div[class*='{class_name}'] .current-value, div[class*='{class_name}'] div div:nth-child(2)").text
-                return float(text.replace(' dB', '').strip())
-            except:
+                # 1. Fetch all spans on the page
+                spans = driver.find_elements(By.TAG_NAME, "span")
+                
+                # 2. Pythonically locate the label text to bypass messy XPATH translate() functions
+                target_span = None
+                for s in spans:
+                    if s.text and label_text.lower() == s.text.lower().strip():
+                        target_span = s
+                        break
+                        
+                if not target_span:
+                    raise Exception(f"Visual label span not injected by React yet.")
+                    
+                # 3. Walk up to parent wrapper, then dig down to the digit
+                parent_wrapper = target_span.find_element(By.XPATH, "..")
+                digit_span = parent_wrapper.find_element(By.CSS_SELECTOR, ".ant-progress-text")
+                return float(digit_span.text.replace(' dB', '').replace('%', '').strip())
+                
+            except Exception as e:
+                print(f"⚠️ Warning: Could not scrape '{label_text}'. Using default {default}. Error: {e}")
                 return default if default is not None else 50.0
 
-        energy = get_val_by_class("attribute-energy")
-        dance = get_val_by_class("attribute-danceability")
-        happy = get_val_by_class("attribute-happiness", default=50.0) 
-        loud = get_val_by_class("attribute-loudness")
+        energy = get_val_by_text("energy")
+        dance = get_val_by_text("danceability")
+        happy = get_val_by_text("happiness", default=50.0) 
+        loud = get_val_by_text("loudness", default=-6.0)
         
         return energy, dance, happy, loud
 
     except Exception as e:
-        print(f"❌ Could not find stats. ({str(e)[:50]})")
+        print(f"❌ Error analyzing song: ({str(e)[:50]})")
         return None
+    finally:
+        if driver:
+            driver.quit()
 
 def predict_vibe(energy, dance, happy, loud):
     # A. Create DataFrame
@@ -156,5 +166,3 @@ while True:
     
     if stats:
         predict_vibe(*stats)
-
-driver.quit()
