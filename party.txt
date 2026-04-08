@@ -1,203 +1,568 @@
-The Weeknd - Blinding Lights
-Dua Lipa - Levitating
-Mark Ronson - Uptown Funk
-Black Eyed Peas - I Gotta Feeling
-Pharrell Williams - Happy
-Justin Timberlake - Can't Stop the Feeling!
-Taylor Swift - Shake It Off
-Katy Perry - Firework
-Bruno Mars - 24K Magic
-Lady Gaga - Just Dance
-Beyoncé - Single Ladies
-Pitbull - Timber
-Ke$ha - TiK ToK
-Usher - Yeah!
-Flo Rida - Low
-LMFAO - Party Rock Anthem
-Rihanna - We Found Love
-Calvin Harris - Summer
-Avicii - Wake Me Up
-Miley Cyrus - Party in the U.S.A.
-Taio Cruz - Dynamite
-Nicki Minaj - Starships
-Jennifer Lopez - On The Floor
-David Guetta - Titanium
-Icona Pop - I Love It
-Carly Rae Jepsen - Call Me Maybe
-One Direction - What Makes You Beautiful
-Walk the Moon - Shut Up and Dance
-DNCE - Cake By The Ocean
-Maroon 5 - Sugar
-BTS - Dynamite
-Lizzo - Juice
-Harry Styles - Watermelon Sugar
-Doja Cat - Say So
-Cardi B - I Like It
-Shawn Mendes - There's Nothing Holdin' Me Back
-Ed Sheeran - Shivers
-Glass Animals - Heat Waves
-Post Malone - Circles
-The Kid LAROI - Stay
-Jason Derulo - Want to Want Me
-Sia - Cheap Thrills
-Clean Bandit - Rather Be
-Major Lazer - Lean On
-Fifth Harmony - Work from Home
-The Chainsmokers - Closer
-Drake - One Dance
-Luis Fonsi - Despacito
-Shakira - Hips Don't Lie
-Daddy Yankee - Gasolina
-Anirudh Ravichander - Arabic Kuthu
-M. M. Keeravani - Naatu Naatu
-Thaman S - Ranjithame
-Vijay Antony - Naaka Mukka
-Anirudh Ravichander - Vaathi Coming
-Devi Sri Prasad - Oo Antava Mava
-Sid Sriram - Srivalli
-Nakash Aziz - Saami Saami
-Benny Dayal - Badtameez Dil
-Vishal Dadlani - Swag Se Swagat
-Neha Kakkar - Dilbar
-Badshah - Kala Chashma
-Guru Randhawa - Lahore
-Mika Singh - Subha Hone Na De
-Diljit Dosanjh - Lover
-AP Dhillon - Brown Munde
-Yo Yo Honey Singh - Lungi Dance
-Vishal Dadlani - Malhari
-Sukhbir - Ishq Tera Tadpave
-Panjabi MC - Mundian To Bach Ke
-J Balvin - Mi Gente
-Daddy Yankee - Dura
-Bad Bunny - Tití Me Preguntó
-Rauw Alejandro - Todo De Ti
-Farruko - Pepas
-Karol G - Tusa
-Shakira - Waka Waka
-Ricky Martin - Livin' La Vida Loca
-Pitbull - Fireball
-Don Omar - Danza Kuduro
-Sean Paul - Temperature
-Shaggy - It Wasn't Me
-Black Eyed Peas - Pump It
-Lady Gaga - Bad Romance
-Rihanna - S&M
-Katy Perry - Roar
-Bruno Mars - Uptown Funk
-Daft Punk - Get Lucky
-Pharrell Williams - Happy
-Justin Bieber - Baby
-Psy - Gangnam Style
-BTS - Butter
-BLACKPINK - How You Like That
-Twice - The Feels
-Stray Kids - God's Menu
-Bigbang - Bang Bang Bang
 2NE1 - I Am The Best
-Super Junior - Sorry, Sorry
-Wonder Girls - Nobody
-Rain - Rainism
-Daler Mehndi - Tunak Tunak Tun
-Alka Yagnik - Bole Chudiyan
-Udit Narayan - Koi Mil Gaya
-Sonu Nigam - You Are My Sonia
-Shaan - Dus Bahane
-KK - It's The Time To Disco
-Sunidhi Chauhan - Dhoom Machale
 A.R. Rahman - Jai Ho
-Shankar Mahadevan - Kajra Re
-Himesh Reshammiya - Aashiqui Mein Teri
-Pritam - Garmi
-Tanishk Bagchi - Aankh Marey
-Meet Bros - Baby Doll
-Kanika Kapoor - Chittiyaan Kalaiyaan
-Badshah - Abhi Toh Party Shuru Hui Hai
-Yo Yo Honey Singh - Blue Eyes
-Jass Manak - Prada
-Harrdy Sandhu - Bijlee Bijlee
-King - Maan Meri Jaan
-Divine - Mirchi
-G.V. Prakash Kumar - Appadi Podu
-Yuvan Shankar Raja - Mankatha Theme
-Harris Jayaraj - Randaka
-Devi Sri Prasad - Ringa Ringa
-Thaman S - Butta Bomma
-Devi Sri Prasad - Seeti Maar
-Mano - Mukkala Muqabla
 A.R. Rahman - Urvasi Urvasi
+ABBA - Gimme! Gimme! Gimme!
+ABBA - Mamma Mia
+ABBA - Super Trouper
+ABBA - Waterloo
+AP Dhillon - Brown Munde
+Abba - Dancing Queen
+Alan Walker - Alone
+Alan Walker - Darkside
+Alan Walker - On My Way
+Alan Walker - The Spectre
+Alka Yagnik - Bole Chudiyan
+Anirudh Ravichander - Arabic Kuthu
+Anirudh Ravichander - Vaathi Coming
+Aqua - Barbie Girl
+Aqua - Doctor Jones
+Arctic Monkeys - Do I Wanna Know?
+Arctic Monkeys - I Bet You Look Good On The Dancefloor
+Arctic Monkeys - R U Mine?
+Arctic Monkeys - Why'd You Only Call Me When You're High?
+Avicii - Addicted To You
+Avicii - Broken Arrows
+Avicii - Fade Into Darkness
+Avicii - Hey Brother
+Avicii - Levels
+Avicii - Silhouettes
+Avicii - The Nights
+Avicii - Waiting For Love
+Avicii - Wake Me Up
+BLACKPINK - How You Like That
+BTS - Butter
+BTS - Dynamite
+Backstreet Boys - Everybody
+Backstreet Boys - Everybody (Backstreet's Back)
+Backstreet Boys - Get Down
+Backstreet Boys - Larger Than Life
+Bad Bunny - Callaita
+Bad Bunny - Dákiti
+Bad Bunny - Safaera
+Bad Bunny - Tití Me Preguntó
+Badshah - Abhi Toh Party Shuru Hui Hai
+Badshah - Kala Chashma
+Bappi Lahiri - Jimmy Jimmy Aaja Aaja
+Bee Gees - More Than A Woman
+Bee Gees - Night Fever
+Bee Gees - Stayin' Alive
+Bee Gees - Tragedy
+Bee Gees - You Should Be Dancing
+Benny Dayal - Badtameez Dil
 Benny Dayal - Omana Penne
+Beyoncé - Single Ladies
+Bigbang - Bang Bang Bang
+Black Eyed Peas - Boom Boom Pow
+Black Eyed Peas - Don't Phunk With My Heart
+Black Eyed Peas - I Gotta Feeling
+Black Eyed Peas - Imma Be
+Black Eyed Peas - Let's Get It Started
+Black Eyed Peas - My Humps
+Black Eyed Peas - Pump It
+Britney Spears - Circus
+Britney Spears - Gimme More
+Britney Spears - I Wanna Go
+Britney Spears - Oops!...I Did It Again
+Britney Spears - Piece Of Me
+Britney Spears - Radar
+Britney Spears - Till The World Ends
+Britney Spears - Toxic
+Britney Spears - Womanizer
+Britney Spears - Work Bitch
+Bruno Mars - 24K Magic
+Bruno Mars - Finesse
+Bruno Mars - Locked Out Of Heaven
+Bruno Mars - Runaway Baby
+Bruno Mars - That's What I Like
+Bruno Mars - Treasure
+Bruno Mars - Uptown Funk
+Calvin Harris - Acceptable In The 80s
+Calvin Harris - Blame
+Calvin Harris - Bounce
+Calvin Harris - Feel So Close
+Calvin Harris - Flashback
+Calvin Harris - How Deep Is Your Love
+Calvin Harris - One Kiss
+Calvin Harris - Outside
+Calvin Harris - Summer
+Calvin Harris - This Is What You Came For
+Calvin Harris - We Found Love
+Cardi B - I Like It
+Cardi B - Money
+Cardi B - Up
+Cardi B - WAP
+Carly Rae Jepsen - Call Me Maybe
+Clean Bandit - Extraordinary
+Clean Bandit - Rather Be
+Clean Bandit - Real Love
+Clean Bandit - Rockabye
+Clean Bandit - Solo
+Clean Bandit - Stronger
+Clean Bandit - Symphony
+Clean Bandit - Tears
+Cyndi Lauper - Girls Just Want To Have Fun
+DJ Snake - Bird Machine
+DJ Snake - Lean On
+DJ Snake - Let Me Love You
+DJ Snake - Loco Contigo
+DJ Snake - Magenta Riddim
+DJ Snake - Middle
+DJ Snake - Taki Taki
+DJ Snake - Turn Down For What
+DJ Snake - You Know You Like It
+DNCE - Cake By The Ocean
+Daddy Yankee - Con Calma
+Daddy Yankee - Dura
+Daddy Yankee - Gasolina
+Daddy Yankee - Limbo
+Daddy Yankee - Rompe
+Daft Punk - Get Lucky
+Daler Mehndi - Tunak Tunak Tun
+David Guetta - Gettin' Over You
+David Guetta - Love Is Gone
+David Guetta - Memories
+David Guetta - Play Hard
+David Guetta - Sexy Bitch
+David Guetta - Titanium
+David Guetta - Turn Me On
+David Guetta - When Love Takes Over
+David Guetta - Without You
+Destiny's Child - Bootylicious
+Destiny's Child - Independent Women
+Destiny's Child - Jumpin', Jumpin'
+Destiny's Child - Survivor
+Devi Sri Prasad - Oo Antava Mava
+Devi Sri Prasad - Ringa Ringa
+Devi Sri Prasad - Seeti Maar
+Diljit Dosanjh - Lover
+Disclosure - F For You
+Disclosure - Holding On
+Disclosure - Latch
+Disclosure - Omen
+Disclosure - When A Fire Starts To Burn
+Disclosure - White Noise
+Disclosure - You & Me
+Divine - Mirchi
+Doja Cat - Get Into It (Yuh)
+Doja Cat - Kiss Me More
+Doja Cat - Need To Know
+Doja Cat - Say So
+Doja Cat - Woman
+Don Omar - Danza Kuduro
+Don Omar - Pobre Diabla
+Don Omar - Taboo
+Don Omar - Virtual Diva
+Drake - One Dance
+Dua Lipa - Break My Heart
+Dua Lipa - Dance The Night
+Dua Lipa - Don't Start Now
+Dua Lipa - Levitating
+Dua Lipa - Levitating (Remix)
+Dua Lipa - New Rules
+Dua Lipa - Physical
+Duke Dumont - I Got U
+Duke Dumont - Need U (100%)
+Duke Dumont - Ocean Drive
+Duke Dumont - Ocean Drive (Extended)
+Duke Dumont - Red Light Green Light
+Duke Dumont - The Giver
+Duke Dumont - Won't Look Back
+Earth, Wind & Fire - Boogie Wonderland
+Earth, Wind & Fire - Fantasy
+Earth, Wind & Fire - Let's Groove
+Earth, Wind & Fire - September
+Earth, Wind & Fire - Shining Star
+Ed Sheeran - Shivers
+Eiffel 65 - Blue (Da Ba Dee)
+Eiffel 65 - Move Your Body
+Empire Of The Sun - Alive
+Empire Of The Sun - DNA
+Empire of the Sun - Walking On A Dream
+Empire of the Sun - We Are The People
+Enrique Iglesias - Bailando
+Enrique Iglesias - Escape
+Enrique Iglesias - I Like It
+Enrique Iglesias - Tonight (I'm Lovin' You)
+Farruko - Chillax
+Farruko - El Incomprendido
+Farruko - Pepas
+Farruko - Pepas (Remix)
+Fifth Harmony - Work from Home
+Flo Rida - Club Can't Handle Me
+Flo Rida - Good Feeling
+Flo Rida - Low
+Flo Rida - My House
+Flo Rida - Right Round
+Flo Rida - Whistle
+Flo Rida - Wild Ones
+Foster The People - Helena Beat
+Foster The People - Houdini
+Foster The People - Pumped Up Kicks
+Foster The People - Sit Next To Me
+Franz Ferdinand - Do You Want To
+Franz Ferdinand - No You Girls
+Franz Ferdinand - Take Me Out
+Franz Ferdinand - This Fire
+G.V. Prakash Kumar - Appadi Podu
+Galantis - Faith
+Galantis - Gold Dust
+Galantis - Heartbreak Anthem
+Galantis - Love On Me
+Galantis - No Money
+Galantis - Peanut Butter Jelly
+Galantis - Runaway (U & I)
+Galantis - Tell Me You Love Me
+Gipsy Kings - Bamboleo
+Glass Animals - Heat Waves
+Gopi Sundar - Guleba
+Guru Randhawa - Lahore
+Gusttavo Lima - Balada
+Gusttavo Lima - Eu Vou Tentando Te Agarrar
+Harrdy Sandhu - Bijlee Bijlee
+Harris Jayaraj - Randaka
+Harry Styles - Watermelon Sugar
+Himesh Reshammiya - Aashiqui Mein Teri
+Icona Pop - I Love It
+Iggy Azalea - Black Widow
+Iggy Azalea - Fancy
+Iggy Azalea - Problem
+Iggy Azalea - Team
+Indila - Derniere Danse
+Indila - Dernière Danse
+Indila - Tourner Dans Le Vide
+J Balvin - Ay Vamos
+J Balvin - Ginza
+J Balvin - Mi Gente
+J Balvin - Safari
+Jason Derulo - In My Head
+Jason Derulo - Ridin' Solo
+Jason Derulo - Swalla
+Jason Derulo - Talk Dirty
+Jason Derulo - Want To Want Me
+Jason Derulo - Want to Want Me
+Jason Derulo - Wiggle
+Jass Manak - Prada
+Jax Jones - Instruction
+Jax Jones - Play
+Jax Jones - Where Did You Go
+Jax Jones - You Don't Know Me
+Jennifer Lopez - On The Floor
+Joel Corry - BED
+Joel Corry - Head & Heart
+Joel Corry - History
+Joel Corry - I Wish
+Joel Corry - Lonely
+Joel Corry - Out Out
+Joel Corry - Sorry
+Joel Corry - What Would You Do?
+Jonas Blue - By Your Side
+Jonas Blue - Fast Car
+Jonas Blue - Mama
+Jonas Blue - Rise
+Justin Bieber - Baby
+Justin Timberlake - Can't Stop the Feeling!
+KK - It's The Time To Disco
+Kanika Kapoor - Chittiyaan Kalaiyaan
+Kaoma - Lambada
+Karol G - Ay Dios Mio
+Karol G - Bichota
+Karol G - Provenza
+Karol G - Tusa
+Katy Perry - Birthday
+Katy Perry - California Gurls
+Katy Perry - Dark Horse
+Katy Perry - Firework
+Katy Perry - Last Friday Night
+Katy Perry - Part Of Me
+Katy Perry - Roar
+Katy Perry - Wide Awake
+Ke$ha - TiK ToK
+Kesha - Blow
+Kesha - Die Young
+Kesha - Take It Off
+Kesha - Tik Tok
+Kesha - We R Who We R
+Kesha - Your Love Is My Drug
+King - Maan Meri Jaan
+Kishore Kumar - Om Shanti Om
+Kool & The Gang - Celebration
+Kool & The Gang - Fresh
+Kool & The Gang - Get Down On It
+Kool & The Gang - Jungle Boogie
+Kool & The Gang - Ladies Night
+Kungs - Clap Your Hands
+Kungs - Don't You Know
+Kungs - Never Going Home
+Kungs - This Girl
+Kygo - Firestone
+Kygo - First Time
+Kygo - Higher Love
+Kygo - It Ain't Me
+Kygo - Remind Me To Forget
+Kygo - Stay
+Kygo - Stole The Show
+LMFAO - Party Rock Anthem
+LMFAO - Sexy And I Know It
+LMFAO - Shots
+LMFAO - Sorry For Party Rocking
+Lady Gaga - Applause
+Lady Gaga - Bad Romance
+Lady Gaga - Born This Way
+Lady Gaga - Just Dance
+Lady Gaga - Poker Face
+Lady Gaga - Telephone
+Lady Gaga - The Edge Of Glory
+Las Ketchup - The Ketchup Song
+Lizzo - Juice
+Los Del Rio - Macarena
+Lou Bega - I Got A Girl
+Lou Bega - Mambo No. 5
+Luis Fonsi - Despacito
+M. M. Keeravani - Naatu Naatu
+MGMT - Electric Feel
+MGMT - Flash Delirium
+MGMT - Kids
+MGMT - Time To Pretend
+Macklemore - Can't Hold Us
+Macklemore - Downtown
+Macklemore - Good Old Days
+Macklemore - Thrift Shop
+Madonna - Celebration
+Madonna - Hung Up
+Madonna - Like A Prayer
+Madonna - Material Girl
+Madonna - Vogue
+Major Lazer - Be Together
+Major Lazer - Buscando Huellas
+Major Lazer - Cold Water
+Major Lazer - Lean On
+Major Lazer - Light It Up
+Major Lazer - Pon De Floor
+Major Lazer - Powerful
+Major Lazer - Que Calor
+Major Lazer - Run Up
+Major Lazer - Watch Out For This
+Mano - Mukkala Muqabla
+Marc Anthony - Vivir Mi Vida
+Mark Ronson - Uptown Funk
+Maroon 5 - Sugar
+Marshmello - Alone
+Marshmello - Friends
+Marshmello - Happier
+Marshmello - Here With Me
+Marshmello - Power
+Marshmello - Silence
+Marshmello - Stars
+Marshmello - Wolves
+Martin Garrix - Animals
+Martin Garrix - Byte
+Martin Garrix - Forbidden Voices
+Martin Garrix - High On Life
+Martin Garrix - In The Name Of Love
+Martin Garrix - Pizza
+Martin Garrix - Scared To Be Lonely
+Martin Garrix - There For You
+Martin Garrix - Tremor
+Meduza - Bad Memories
+Meduza - Friends
+Meduza - Headrush
+Meduza - Lose Control
+Meduza - Paradise
+Meduza - Piece Of Your Heart
+Meduza - Tell It To My Heart
+Meduza - Upside Down
+Meet Bros - Baby Doll
+Michael Jackson - Beat It
+Michael Jackson - Billie Jean
+Michael Jackson - Don't Stop 'Til You Get Enough
+Michael Jackson - Rock With You
+Michael Jackson - Wanna Be Startin' Somethin'
+Michel Teló - Ai Se Eu Te Pego
+Michel Teló - Fugidinha
+Mika Singh - Subha Hone Na De
+Miley Cyrus - Party in the U.S.A.
+NSYNC - Bye Bye Bye
+NSYNC - Girlfriend
+NSYNC - It's Gonna Be Me
+NSYNC - Pop
+Nakash Aziz - Saami Saami
+Nazia Hassan - Disco Deewane
+Neha Kakkar - Dilbar
+Nicki Minaj - Anaconda
+Nicki Minaj - Moment 4 Life
+Nicki Minaj - Pound The Alarm
+Nicki Minaj - Starships
+Nicki Minaj - Super Bass
+Nicki Minaj - Va Va Voom
+O-Zone - Despre Tine
+O-Zone - Dragostea Din Tei
+One Direction - What Makes You Beautiful
+Outkast - B.O.B.
+Outkast - Hey Ya!
+Outkast - Ms. Jackson
+Outkast - So Fresh, So Clean
+Panjabi MC - Mundian To Bach Ke
+Passion Pit - Carried Away
+Passion Pit - Sleepyhead
+Passion Pit - Take A Walk
+Passion Pit - The Reeling
+Pharrell Williams - Happy
+Phoenix - 1901
+Phoenix - Entertainment
+Phoenix - If I Ever Feel Better
+Phoenix - Lisztomania
+Pitbull - Fireball
+Pitbull - Give Me Everything
+Pitbull - Hey Baby (Drop It To The Floor)
+Pitbull - International Love
+Pitbull - Rain Over Me
+Pitbull - Timber
+Pitbull - Time Of Our Lives
+Post Malone - Circles
+Pritam - Garmi
+Psy - Gangnam Style
+R.D. Burman - Mehbooba Mehbooba
+Rain - Rainism
+Rauw Alejandro - Cúrame
+Rauw Alejandro - Desesperados
+Rauw Alejandro - Fantasias
+Rauw Alejandro - Todo De Ti
+Regard - Hallucination
+Regard - Hallucination (Extended)
+Regard - No Love For You
+Regard - Ride It
+Regard - Secrets
+Regard - Signals
+Regard - You
+Ricky Martin - Cup Of Life
+Ricky Martin - La Mordidita
+Ricky Martin - Livin' La Vida Loca
+Ricky Martin - She Bangs
+Rihanna - Disturbia
+Rihanna - Don't Stop The Music
+Rihanna - Only Girl (In The World)
+Rihanna - Pon de Replay
+Rihanna - S&M
+Rihanna - We Found Love
+Rihanna - Where Have You Been
+Rudimental - Feel The Love
+Rudimental - Lay It All On Me
+Rudimental - These Days
+Rudimental - Waiting All Night
+SAINt JHN - Ghetto Lenny's Love Songs
+SAINt JHN - Roses
+SAINt JHN - Roses (Imanbek Remix)
+Sean Paul - Get Busy
+Sean Paul - Give It Up To Me
+Sean Paul - Like Glue
+Sean Paul - She Doesn't Mind
+Sean Paul - Temperature
+Shaan - Chand Sifarish
+Shaan - Dus Bahane
+Shaggy - It Wasn't Me
+Shakira - Hips Don't Lie
+Shakira - Loca
+Shakira - She Wolf
+Shakira - Waka Waka
+Shakira - Whenever, Wherever
+Shankar Mahadevan - Kajra Re
+Shawn Mendes - There's Nothing Holdin' Me Back
+Sia - Chandelier
+Sia - Cheap Thrills
+Sia - Fire Meet Gasoline
+Sia - Move Your Body
+Sia - Titanium
+Sid Sriram - Srivalli
+Sigala - Came Here For Love
+Sigala - Easy Love
+Sigala - Give Me Your Love
+Sigala - Just Got Paid
+Sigala - Lullaby
+Sigala - Melody
+Sigala - Radio
+Sigala - Sweet Lovin'
+Sonu Nigam - You Are My Sonia
+Spice Girls - Spice Up Your Life
+Spice Girls - Stop
+Spice Girls - Wannabe
+Spice Girls - Who Do You Think You Are
+Stray Kids - God's Menu
+Stromae - Alors On Danse
+Stromae - Papaoutai
+Stromae - Ta Fête
+Stromae - Tous Les Mêmes
+Sukhbir - Ishq Tera Tadpave
+Sunidhi Chauhan - Dhoom Machale
+Super Junior - Sorry, Sorry
+Swedish House Mafia - Don't You Worry Child
+Swedish House Mafia - Greyhound
+Swedish House Mafia - Miami 2 Ibiza
+Swedish House Mafia - One
+Swedish House Mafia - Save The World
+Taio Cruz - Dynamite
+Tanishk Bagchi - Aankh Marey
+Taylor Swift - Shake It Off
+Thaman S - Butta Bomma
+Thaman S - Ranjithame
+The Chainsmokers - Call You Mine
+The Chainsmokers - Closer
+The Chainsmokers - Don't Let Me Down
+The Chainsmokers - Paris
+The Chainsmokers - Roses
+The Chainsmokers - Something Just Like This
+The Kid LAROI - Stay
+The Killers - Human
+The Killers - Mr. Brightside
+The Killers - Somebody Told Me
+The Killers - When You Were Young
+The Weeknd - Blinding Lights
+The Weeknd - Can't Feel My Face
+The Weeknd - I Feel It Coming
+The Weeknd - Sacrifice
+The Weeknd - Starboy
+The Weeknd - Take My Breath
+Tiësto - Adagio For Strings
+Tiësto - Boom
+Tiësto - Don't Be Shy
+Tiësto - Jackie's Music
+Tiësto - Lay Low
+Tiësto - Red Lights
+Tiësto - Ritual
+Tiësto - The Business
+Tiësto - The Motto
+Tiësto - WOW
+Topic - Breaking Me
+Topic - Home
+Topic - In Your Arms
+Topic - Kernkraft 400
+Topic - Why Do You Lie To Me
+Topic - Your Love (9PM)
+Twice - The Feels
+Udit Narayan - Koi Mil Gaya
+Usher - Yeah!
+Vengaboys - Boom Boom Boom Boom
+Vengaboys - We Like To Party
+Vijay Antony - Naaka Mukka
 Vijay Yesudas - Malare
 Vineeth Sreenivasan - Jimikki Kammal
-Gopi Sundar - Guleba
-Shaan - Chand Sifarish
-Kishore Kumar - Om Shanti Om
-R.D. Burman - Mehbooba Mehbooba
-Bappi Lahiri - Jimmy Jimmy Aaja Aaja
-Nazia Hassan - Disco Deewane
-Abba - Dancing Queen
-Bee Gees - Stayin' Alive
-Earth, Wind & Fire - September
-Kool & The Gang - Celebration
-Michael Jackson - Billie Jean
+Vishal Dadlani - Malhari
+Vishal Dadlani - Swag Se Swagat
+Walk the Moon - Shut Up and Dance
+Whitney Houston - How Will I Know
 Whitney Houston - I Wanna Dance With Somebody
-Cyndi Lauper - Girls Just Want To Have Fun
-Madonna - Like A Prayer
-Britney Spears - Toxic
-Backstreet Boys - Everybody
-NSYNC - Bye Bye Bye
-Spice Girls - Wannabe
-Destiny's Child - Survivor
-Outkast - Hey Ya!
-The Killers - Mr. Brightside
-Franz Ferdinand - Take Me Out
-Arctic Monkeys - I Bet You Look Good On The Dancefloor
-MGMT - Kids
-Empire of the Sun - Walking On A Dream
-Foster The People - Pumped Up Kicks
-Phoenix - 1901
-Passion Pit - Sleepyhead
-Macklemore - Thrift Shop
-Iggy Azalea - Fancy
-Sia - Chandelier
-Major Lazer - Light It Up
-DJ Snake - Taki Taki
-Kygo - Firestone
-Avicii - Levels
-Calvin Harris - Feel So Close
-David Guetta - Play Hard
-Martin Garrix - Tremor
-Alan Walker - The Spectre
-Marshmello - Alone
-The Chainsmokers - Roses
+Whitney Houston - I'm Every Woman
+Whitney Houston - So Emotional
+Wonder Girls - Nobody
+Yo Yo Honey Singh - Blue Eyes
+Yo Yo Honey Singh - Lungi Dance
+Yuvan Shankar Raja - Mankatha Theme
+Zedd - Beautiful Now
 Zedd - Clarity
-Galantis - Runaway (U & I)
-Disclosure - Latch
-Rudimental - These Days
-Clean Bandit - Symphony
-Jonas Blue - Fast Car
-Sigala - Sweet Lovin'
-Duke Dumont - Ocean Drive
-Kungs - This Girl
-Jax Jones - You Don't Know Me
-Joel Corry - Head & Heart
-Regard - Ride It
-Topic - Breaking Me
-SAINt JHN - Roses (Imanbek Remix)
-Tiësto - The Business
-Meduza - Piece Of Your Heart
-Stromae - Alors On Danse
-Indila - Derniere Danse
-Michel Teló - Ai Se Eu Te Pego
-Gusttavo Lima - Balada
-Enrique Iglesias - Bailando
-Marc Anthony - Vivir Mi Vida
-Gipsy Kings - Bamboleo
-Los Del Rio - Macarena
-Las Ketchup - The Ketchup Song
-Kaoma - Lambada
-Lou Bega - Mambo No. 5
-Vengaboys - We Like To Party
-Aqua - Barbie Girl
-Eiffel 65 - Blue (Da Ba Dee)
-O-Zone - Dragostea Din Tei
+Zedd - Find You
+Zedd - Good Thing
+Zedd - I Want You To Know
+Zedd - Spectrum
+Zedd - Stay
+Zedd - Stay The Night
+Zedd - Straight Into The Fire
+Zedd - The Middle

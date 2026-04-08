@@ -1,158 +1,151 @@
-import csv
 import time
+import random
+import csv
 import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 # --- CONFIGURATION ---
 FILES = {
     'Party': 'party.txt',
     'Workout': 'workout.txt',
-    'Study': 'study.txt',
-    'Sleep': 'sleep.txt'
+    'Sleep': 'sleep.txt',
+    'Study': 'study.txt'
 }
-OUTPUT_FILE = 'final_dataset.csv'
+CSV_FILE = 'final_dataset.csv'
 
-# --- 1. SETUP FUNCTIONS ---
+# --- 1. SETUP BROWSER ---
 def get_driver():
-    options = webdriver.ChromeOptions()
-    options.add_argument("--log-level=3")
-    # Block notifications and popups via browser preferences
-    prefs = {
-        "profile.default_content_setting_values.notifications": 2, 
-        "profile.managed_default_content_settings.popups": 2
-    }
+    options = Options()
+    options.add_argument("--start-maximized")
+    options.add_argument("--disable-blink-features=AutomationControlled") 
+    options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    options.add_experimental_option('useAutomationExtension', False)
+    
+    # Allow popups (sometimes needed for search to work)
+    prefs = {"profile.default_content_setting_values.notifications": 1}
     options.add_experimental_option("prefs", prefs)
     
     driver = webdriver.Chrome(options=options)
-    driver.maximize_window()
+    driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
     return driver
 
-def get_safe_text(driver, xpath):
+# --- 2. SCRAPER FUNCTION ---
+def get_song_stats(driver, song_name, wait):
+    print(f"   🔎 Searching: {song_name}...", end=" ", flush=True)
     try:
-        return driver.find_element(By.XPATH, xpath).text
-    except:
-        return "0"
+        # A. Go to Home (Only if not already there to save time)
+        if "tunebat.com" not in driver.current_url:
+            driver.get("https://tunebat.com/")
+        
+        # B. Smart Wait for Search Box (Max 10 seconds)
+        try:
+            search_box = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "input[type='search'], input[type='text']")))
+        except:
+            # If search box missing, try refreshing once
+            driver.refresh()
+            time.sleep(4)
+            search_box = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "input[type='search'], input[type='text']")))
 
-def close_popups(driver):
-    """Checks for new tabs, closes them, and returns to main."""
-    try:
-        main_window = driver.window_handles[0]
-        if len(driver.window_handles) > 1:
-            # print("   🛡️  Popup detected! Closing it...")
-            for handle in driver.window_handles:
-                if handle != main_window:
-                    driver.switch_to.window(handle)
-                    driver.close()
-            driver.switch_to.window(main_window)
-    except:
-        pass # If this fails, we just keep going
+        # C. Search
+        search_box.clear()
+        search_box.send_keys(song_name)
+        search_box.send_keys(Keys.RETURN)
+        
+        # D. Wait for Results & Click
+        try:
+            # Wait for EITHER the result link OR the "No results" text
+            result_link = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, ".search-result-item, .row.search-result a")))
+            result_link.click()
+        except:
+            print("❌ Song not found (or blocked).")
+            return None
+        
+        # E. Scrape Stats
+        # Wait for the Energy bar to appear (confirms page loaded)
+        wait.until(EC.presence_of_element_located((By.CLASS_NAME, "attribute-energy")))
+        
+        def get_val(class_name):
+            # Find the value inside the attribute div
+            text = driver.find_element(By.CSS_SELECTOR, f"div[class*='{class_name}'] .current-value, div[class*='{class_name}'] div div:nth-child(2)").text
+            return text.replace(' dB', '').strip()
 
-# --- 2. CHECK EXISTING PROGRESS ---
-processed_songs = set()
-if os.path.exists(OUTPUT_FILE):
-    with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
-        reader = csv.reader(f)
-        next(reader, None) 
-        for row in reader:
-            if row:
-                processed_songs.add(row[0])
+        energy = get_val("attribute-energy")
+        dance = get_val("attribute-danceability")
+        happy = get_val("attribute-happiness")
+        loud = get_val("attribute-loudness")
+        
+        print(f"✅ Saved! (E:{energy})")
+        return [song_name, energy, dance, happy, loud]
 
-print(f"🔄 Resuming... Found {len(processed_songs)} songs already done.")
+    except Exception as e:
+        # TAKE A SCREENSHOT ON FAILURE
+        driver.save_screenshot("debug_error.png")
+        print(f"❌ Error: {str(e)[:30]}... (Screenshot saved)")
+        return None
 
 # --- 3. MAIN LOOP ---
-with open(OUTPUT_FILE, 'a', newline='', encoding='utf-8') as f:
-    writer = csv.writer(f)
-    
-    driver = get_driver()
-    songs_since_restart = 0
+driver = get_driver()
+wait = WebDriverWait(driver, 10) # 10 second timeout
 
-    print("🚀 Starting Popup-Killer Scraper...")
+# --- 🛑 MANUAL CHECKPOINT 🛑 ---
+print("\n" + "="*50)
+print("🚀 BROWSER LAUNCHED!")
+print("1. Go to the Chrome window.")
+print("2. If you see a 'Verify you are human' box, CLICK IT.")
+print("3. If you see a Cookie Banner, CLOSE IT.")
+print("4. Make sure you can see the Search Bar.")
+input("👉 Press ENTER here in the terminal once the site is ready...")
+print("="*50 + "\n")
 
+# Load existing data
+existing_songs = set()
+if os.path.exists(CSV_FILE):
+    with open(CSV_FILE, 'r', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        next(reader, None)
+        for row in reader:
+            if row:
+                existing_songs.add(row[0])
+
+# Prepare CSV
+if not os.path.exists(CSV_FILE):
+    with open(CSV_FILE, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow(['Song Name', 'Energy', 'Danceability', 'Happiness', 'Loudness', 'Vibe'])
+
+try:
     for vibe, filename in FILES.items():
         print(f"\n📂 Checking: {vibe}")
-        
-        try:
-            with open(filename, 'r') as song_file:
-                songs = [line.strip() for line in song_file.readlines() if line.strip()]
-        except FileNotFoundError:
-            continue
-
-        for song in songs:
-            if song in processed_songs:
-                continue
-
-            # MAINTENANCE: Restart browser every 20 songs to clear memory
-            if songs_since_restart >= 20:
-                print("♻️  Refreshing browser memory...")
-                driver.quit()
-                time.sleep(2)
-                driver = get_driver()
-                songs_since_restart = 0
-
-            print(f"   🔎 Searching: {song}...", end=" ")
+        if not os.path.exists(filename): continue
             
-            try:
-                # 1. Kill Popups before we start
-                close_popups(driver)
-                
-                driver.get("https://tunebat.com/")
-                
-                # 2. Kill Popups again (Tunebat often opens one on load)
-                close_popups(driver)
+        with open(filename, 'r', encoding='utf-8') as f:
+            songs = [line.strip() for line in f.readlines() if line.strip()]
+        
+        for song in songs:
+            if song in existing_songs:
+                continue 
 
-                # 3. Find Search Box (with Retry/Refresh Logic)
-                try:
-                    search_box = driver.find_element(By.XPATH, "//input[@type='search' or @type='text']")
-                except:
-                    # If failed, refresh page and try one more time
-                    # print("   ⚠️  Search box blocked. Refreshing...")
-                    driver.refresh()
-                    time.sleep(3)
-                    close_popups(driver)
-                    search_box = driver.find_element(By.XPATH, "//input[@type='search' or @type='text']")
+            stats = get_song_stats(driver, song, wait)
+            
+            if stats:
+                stats.append(vibe)
+                with open(CSV_FILE, 'a', newline='', encoding='utf-8') as f:
+                    writer = csv.writer(f)
+                    writer.writerow(stats)
+                existing_songs.add(song)
+                
+                # Sleep to be safe (random 4-7 seconds)
+                time.sleep(random.uniform(4, 7))
+            else:
+                # If failed, wait longer before trying next song
+                time.sleep(5)
 
-                search_box.clear()
-                search_box.send_keys(song)
-                search_box.send_keys(Keys.RETURN)
-                time.sleep(2) 
-                
-                # 4. Click Result
-                first_word = song.split(' - ')[-1].split(' ')[0]
-                try:
-                    link = driver.find_element(By.PARTIAL_LINK_TEXT, first_word)
-                    driver.execute_script("arguments[0].scrollIntoView();", link)
-                    driver.execute_script("arguments[0].click();", link)
-                except:
-                    # Backup Click
-                    driver.find_element(By.CSS_SELECTOR, ".search-result-item").click()
-                
-                time.sleep(3) 
-                
-                # 5. Scrape
-                energy = get_safe_text(driver, "//main/div/div[1]/div[4]/div/div[2]/div/div/span")
-                dance = get_safe_text(driver, "//main/div/div[1]/div[4]/div/div[3]/div/div/span")
-                happy = get_safe_text(driver, "//main/div/div[1]/div[4]/div/div[4]/div/div/span")
-                loud = get_safe_text(driver, "//main/div/div[1]/div[4]/div/div[9]/div/div/span")
-                
-                if energy == "0":
-                    print("❌ Failed (Got 0s)")
-                else:
-                    writer.writerow([song, vibe, energy, dance, happy, loud])
-                    f.flush()
-                    print(f"✅ Saved! (E:{energy})")
-                    songs_since_restart += 1
-
-            except Exception as e:
-                print(f"❌ Error ({str(e)[:15]}...)")
-                # If total crash, restart
-                if "invalid session" in str(e) or "chrome not reachable" in str(e):
-                    print("⚠️ Critical Crash! Rebooting...")
-                    try: driver.quit()
-                    except: pass
-                    driver = get_driver()
-                    songs_since_restart = 0
-
-print("\n🎉 All Done!")
-driver.quit()
+except KeyboardInterrupt:
+    print("\n🛑 Stopped by user.")
+finally:
+    driver.quit()

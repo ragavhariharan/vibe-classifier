@@ -2,9 +2,14 @@ import time
 import joblib
 import pandas as pd
 import numpy as np
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 from selenium import webdriver
+import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 # --- LOAD THE COMMITTEE ---
 print("🧠 Loading the Committee...")
@@ -17,16 +22,28 @@ except:
 
 # --- SETUP BROWSER ---
 def get_driver():
-    options = webdriver.ChromeOptions()
+    options = uc.ChromeOptions()
     options.add_argument("--log-level=3")
+    options.add_argument("--start-maximized")
+    
     # Block popups
     prefs = {"profile.default_content_setting_values.notifications": 2}
     options.add_experimental_option("prefs", prefs)
-    driver = webdriver.Chrome(options=options)
-    driver.maximize_window()
+    
+    driver = uc.Chrome(options=options, version_main=146)
     return driver
 
 driver = get_driver()
+driver.get("https://tunebat.com/") # Load initially to trigger captcha
+
+# --- 🛑 MANUAL CHECKPOINT 🛑 ---
+print("\n" + "="*50)
+print("🚀 BROWSER LAUNCHED!")
+print("1. Go to the Chrome window.")
+print("2. If you see a 'Verify you are human' box, CLICK IT.")
+print("3. Wait until you see the actual Tunebat search bar.")
+input("👉 Press ENTER here in the terminal once the site is ready...")
+print("="*50 + "\n")
 
 def close_popups():
     """Closes any extra tabs that Tunebat opens."""
@@ -58,37 +75,48 @@ def get_song_stats(song_name):
         time.sleep(3)
         
         # Click
+        wait = WebDriverWait(driver, 10)
         try:
-            first_word = song_name.split(' ')[0]
-            link = driver.find_element(By.PARTIAL_LINK_TEXT, first_word)
-            driver.execute_script("arguments[0].click();", link)
+            # Try to grab structural track links
+            result_link = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "a[href*='/Info/'], .search-result-item, .row.search-result a")))
+            driver.execute_script("arguments[0].click();", result_link)
         except:
-            driver.find_element(By.CSS_SELECTOR, ".search-result-item").click()
-        
-        time.sleep(3)
+            try:
+                # Fallback: case-insensitive match on the first word of the song
+                first_word = song_name.split(' ')[0].lower()
+                xpath = f"//a[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), '{first_word}')]"
+                link = wait.until(EC.presence_of_element_located((By.XPATH, xpath)))
+                driver.execute_script("arguments[0].click();", link)
+            except:
+                print("❌ Song not found.")
+                return None
         
         # Scrape
-        def get_val(xpath):
-            text = driver.find_element(By.XPATH, xpath).text
-            return float(text.replace(' dB', '').strip())
+        try:
+            wait.until(EC.presence_of_element_located((By.CLASS_NAME, "attribute-energy")))
+        except:
+            with open('dom_track.html', 'w', encoding='utf-8') as f:
+                f.write(driver.page_source)
+            print("❌ Stats not found (or blocked). Saved DOM to dom_track.html")
+            return None
+            
+        def get_val_by_class(class_name, default=None):
+            try:
+                text = driver.find_element(By.CSS_SELECTOR, f"div[class*='{class_name}'] .current-value, div[class*='{class_name}'] div div:nth-child(2)").text
+                return float(text.replace(' dB', '').strip())
+            except:
+                return default if default is not None else 50.0
 
-        energy = get_val("//main/div/div[1]/div[4]/div/div[2]/div/div/span")
-        dance = get_val("//main/div/div[1]/div[4]/div/div[3]/div/div/span")
-        happy = get_safe_val("//main/div/div[1]/div[4]/div/div[4]/div/div/span") # Use safe val
-        loud = get_val("//main/div/div[1]/div[4]/div/div[9]/div/div/span")
+        energy = get_val_by_class("attribute-energy")
+        dance = get_val_by_class("attribute-danceability")
+        happy = get_val_by_class("attribute-happiness", default=50.0) 
+        loud = get_val_by_class("attribute-loudness")
         
         return energy, dance, happy, loud
 
     except Exception as e:
         print(f"❌ Could not find stats. ({str(e)[:50]})")
         return None
-
-def get_safe_val(xpath):
-    try:
-        text = driver.find_element(By.XPATH, xpath).text
-        return float(text.replace(' dB', '').strip())
-    except:
-        return 50.0 # Default if missing
 
 def predict_vibe(energy, dance, happy, loud):
     # A. Create DataFrame

@@ -1,201 +1,805 @@
-Ed Sheeran - Perfect
-Ed Sheeran - Thinking Out Loud
-John Legend - All of Me
-Adele - Someone Like You
-Adele - Hello
-Sam Smith - Too Good At Goodbyes
-Billie Eilish - Ocean Eyes
-Billie Eilish - Lovely
-Lewis Capaldi - Someone You Loved
-Bruno Mars - Talking to the Moon
-Coldplay - Fix You
-Coldplay - Yellow
-Harry Styles - Sign of the Times
-Justin Bieber - Love Yourself
-Shawn Mendes - Mercy
-James Arthur - Say You Won't Let Go
-Passenger - Let Her Go
-The Fray - How to Save a Life
-Snow Patrol - Chasing Cars
-One Direction - Little Things
-Zayn - Dusk Till Dawn
-Sia - Helium
-Rihanna - Stay
-Lady Gaga - Shallow
-Christina Perri - A Thousand Years
-Jason Mraz - I Won't Give Up
-Bruno Mars - Just the Way You Are
-Train - Drops of Jupiter
-Maroon 5 - She Will Be Loved
-Hoobastank - The Reason
-Evanescence - My Immortal
-Linkin Park - One More Light
-Guns N' Roses - November Rain
-Aerosmith - I Don't Want To Miss A Thing
-The Police - Every Breath You Take
-U2 - With Or Without You
-Bryan Adams - Heaven
-Whitney Houston - I Will Always Love You
-Celine Dion - My Heart Will Go On
-Elvis Presley - Can't Help Falling in Love
-Frank Sinatra - Fly Me To The Moon
-Louis Armstrong - What a Wonderful World
-Ben E. King - Stand By Me
-The Beatles - Let It Be
-John Lennon - Imagine
-Bob Dylan - Knockin' on Heaven's Door
-Leonard Cohen - Hallelujah
-Don McLean - Vincent
-James Taylor - You've Got a Friend
-Norah Jones - Don't Know Why
-Etta James - At Last
-Aretha Franklin - Natural Woman
-Otis Redding - Dock of the Bay
-Sam Cooke - A Change Is Gonna Come
-Al Green - Let's Stay Together
-Marvin Gaye - What's Going On
-Bill Withers - Ain't No Sunshine
-Stevie Wonder - Lately
-Prince - Purple Rain
-George Michael - Careless Whisper
-Sade - Smooth Operator
-Michael Jackson - Human Nature
-Lionel Richie - Hello
-Commodores - Easy
-Bee Gees - How Deep Is Your Love
-Carpenters - Close to You
-Simon & Garfunkel - Bridge Over Troubled Water
-Cat Stevens - Father and Son
-Joni Mitchell - Both Sides Now
-Fleetwood Mac - Songbird
-Elton John - Tiny Dancer
-Billy Joel - Vienna
-Eagles - Desperado
-Kansas - Dust in the Wind
-America - A Horse With No Name
-Don Henley - Boys of Summer
-Foreigner - I Want to Know What Love Is
-Chicago - You're the Inspiration
-REO Speedwagon - Keep on Loving You
-Journey - Faithfully
-Toto - Africa (Acoustic)
-Cyndi Lauper - Time After Time
-Bangles - Eternal Flame
-Madonna - Crazy for You
-Wham! - Last Christmas
-Phil Collins - In the Air Tonight
-Sting - Fields of Gold
-R.E.M. - Everybody Hurts
-Oasis - Wonderwall
-The Verve - Bitter Sweet Symphony
-Snow Patrol - Run
-Keane - Bedshaped
-Travis - Sing
-Radiohead - High and Dry
-Jeff Buckley - Hallelujah
-Red Hot Chili Peppers - Under the Bridge
-Nirvana - Something in the Way
-Pearl Jam - Just Breathe
-Soundgarden - Black Hole Sun (Acoustic)
-Stone Temple Pilots - Plush (Acoustic)
-Alice in Chains - Nutshell
-Foo Fighters - Everlong (Acoustic)
-Green Day - Good Riddance
-Blink-182 - I Miss You
-Incubus - Drive
 3 Doors Down - Here Without You
-Lifehouse - Hanging by a Moment
-The Calling - Wherever You Will Go
-Goo Goo Dolls - Iris
-Matchbox Twenty - Unwell
-Daughtry - Home
-Five for Fighting - 100 Years
-Daniel Powter - Bad Day
-Howie Day - Collide
-The Fray - You Found Me
-OneRepublic - Apologize
-Timbaland - Apologize
-Leona Lewis - Bleeding Love
-Beyonce - Halo
-Alicia Keys - If I Ain't Got You
-Usher - Burn
-Mariah Carey - We Belong Together
-Ne-Yo - So Sick
-Chris Brown - With You
-Rihanna - Take a Bow
-Katy Perry - The One That Got Away
-Taylor Swift - All Too Well
-Taylor Swift - Safe and Sound
-Lana Del Rey - Video Games
-Lana Del Rey - Summertime Sadness
-Lorde - Ribs
-Halsey - Sorry
-Julia Michaels - Issues
-Camila Cabello - Consequences
-Ariana Grande - almost is never enough
-Selena Gomez - Lose You to Love Me
-Demi Lovato - Stone Cold
-Miley Cyrus - The Climb
-Kelly Clarkson - Because of You
-Carrie Underwood - Jesus Take the Wheel
-Rascal Flatts - Bless the Broken Road
-Lady A - Need You Now
-Lonestar - Amazed
-Shania Twain - You're Still the One
-Faith Hill - Breathe
-Dixie Chicks - Landslide
-Brad Paisley - Whiskey Lullaby
-Tim McGraw - Humble and Kind
-Kenny Chesney - There Goes My Life
-Alan Jackson - Remember When
-George Strait - I Cross My Heart
-Garth Brooks - The Dance
-Brooks & Dunn - Believe
-Johnny Cash - Hurt
-Willie Nelson - Always on My Mind
-Dolly Parton - I Will Always Love You
-Loretta Lynn - Coal Miner's Daughter
-Patsy Cline - Crazy
-Hank Williams - I'm So Lonesome I Could Cry
-Ray Charles - Georgia on My Mind
-Nina Simone - Feeling Good
-Ella Fitzgerald - Misty
-Billie Holiday - Strange Fruit
-Sarah Vaughan - Misty
-Nat King Cole - Unforgettable
-Dean Martin - That's Amore
-Tony Bennett - I Left My Heart in San Francisco
-Judy Garland - Over the Rainbow
-Julie Andrews - Edelweiss
-Barbra Streisand - The Way We Were
-Bette Midler - The Rose
-Sarah McLachlan - Angel
-Dido - White Flag
-Jewel - You Were Meant for Me
-Sheryl Crow - Strong Enough
-Alanis Morissette - Ironic
-Cranberries - Linger
-No Doubt - Don't Speak
-Sixpence None the Richer - Kiss Me
-Natalie Imbruglia - Torn
-Savage Garden - Truly Madly Deeply
-Backstreet Boys - I Want It That Way
-NSYNC - This I Promise You
 98 Degrees - I Do
-Westlife - My Love
-Boyz II Men - End of the Road
-K-Ci & JoJo - All My Life
-Brian McKnight - Back at One
-Luther Vandross - Dance with My Father
-Peabo Bryson - A Whole New World
-James Ingram - Just Once
-Jeffrey Osborne - On the Wings of Love
-Lionel Richie - Stuck on You
-Stevie Wonder - I Just Called to Say I Love You
-Michael Jackson - She's Out of My Life
-Prince - Diamonds and Pearls
-Sade - No Ordinary Love
+A Great Big World - Already Home
+A Great Big World - Kaleidoscope
+A Great Big World - Rockstar
+A Great Big World - Say Something
+A Great Big World - There Is An Answer
+A Great Big World - You'll Be Okay
+AURORA - A Different Kind Of Human (Acoustic)
+AURORA - All Is Soft Inside (Acoustic)
+AURORA - Awakening
+AURORA - Daydreamer
+AURORA - Exist For Love
+AURORA - Half The World Away
+AURORA - I Went Too Far (Acoustic)
+AURORA - It Happened Quiet
+AURORA - Murder Song (Acoustic)
+AURORA - Runaway
+AURORA - Soft Universe
+AURORA - Through The Eyes Of A Child
+AURORA - Winter Bird
+Adele - All Night Parking
+Adele - Hello
+Adele - Hometown Glory
+Adele - I Drink Wine
+Adele - Love In The Dark
+Adele - Love Is A Game
+Adele - Make You Feel My Love
+Adele - Remedy
+Adele - Someone Like You
+Adele - Turning Tables
+Aerosmith - I Don't Want To Miss A Thing
+Al Green - Call Me (Come Back Home)
+Al Green - For The Good Times
+Al Green - How Can You Mend A Broken Heart
+Al Green - Let's Stay Together
+Al Green - Love And Happiness (Acoustic)
+Al Green - Simply Beautiful
+Al Green - Tired Of Being Alone
+Alan Jackson - Remember When
+Alanis Morissette - Ironic
+Alec Benjamin - Demons
+Alec Benjamin - If We Have Each Other
+Alec Benjamin - Let Me Down Slowly
+Alec Benjamin - Mind Is A Prison
+Alec Benjamin - Must Have Been The Wind
+Alec Benjamin - Outrunning Karma
+Alec Benjamin - Shadow Of Mine
+Alec Benjamin - Water Fountain
+Alice in Chains - Nutshell
+Alicia Keys - If I Ain't Got You
+America - A Horse With No Name
+Angelo De Augustine - You Needed Love, I Needed You
+Angus & Julia Stone - Big Jet Plane
+Angus & Julia Stone - Chateau
+Angus & Julia Stone - Draw Your Swords
+Angus & Julia Stone - For You
+Angus & Julia Stone - Grizzly Bear
+Angus & Julia Stone - Paper Aeroplane
+Angus & Julia Stone - Santa Monica Dream
+Angus & Julia Stone - Yellow Brick Road
 Anita Baker - Sweet Love
-Whitney Houston - Greatest Love of All
-Mariah Carey - Vision of Love
+Aquilo - Silhouette
+Aquilo - You There
+Arctic Monkeys - Fire And The Thud (Acoustic)
+Arctic Monkeys - Love Is A Laserquest
+Aretha Franklin - Natural Woman
+Ariana Grande - almost is never enough
+Backstreet Boys - I Want It That Way
+Bangles - Eternal Flame
+Barbra Streisand - The Way We Were
+Bee Gees - How Deep Is Your Love
+Ben E. King - Stand By Me
+Ben Howard - Conrad
+Ben Howard - Only Love
+Ben Howard - Promise
+Ben Platt - Ease My Mind
+Ben Platt - Grow As We Go
+Ben Platt - Honest Man
+Ben Platt - In Case You Don't Live Forever
+Ben Platt - Older
+Ben Platt - River
+Ben Platt - Share Your Address
+Ben Platt - Temporary Love
+Bette Midler - The Rose
+Beyonce - Halo
+Bill Withers - Ain't No Sunshine
+Bill Withers - Grandma's Hands
+Bill Withers - Hope She'll Be Happier
+Bill Withers - Just The Two Of Us (Acoustic)
+Bill Withers - Lean On Me
+Bill Withers - Lovely Day (Acoustic)
+Bill Withers - Use Me (Acoustic)
+Billie Eilish - Come Out And Play
+Billie Eilish - Everything I Wanted
+Billie Eilish - Halley's Comet
+Billie Eilish - Happier Than Ever (Acoustic)
+Billie Eilish - Listen Before I Go
+Billie Eilish - Lovely
+Billie Eilish - Male Fantasy
+Billie Eilish - My Future
+Billie Eilish - No Time To Die
+Billie Eilish - Ocean Eyes
+Billie Eilish - TV
+Billie Eilish - When The Party's Over
+Billie Eilish - Your Power
+Billie Eilish - idontwannabeyouanymore
+Billie Holiday - Strange Fruit
+Billie Marten - Bird
+Billie Marten - La Lune
+Billy Joel - And So It Goes
+Billy Joel - Just The Way You Are
+Billy Joel - New York State Of Mind
+Billy Joel - She's Always A Woman
+Billy Joel - Summer, Highland Falls
+Billy Joel - Vienna
+Billy Joel - Vienna (Live)
+Birdy - All You Never Say
+Birdy - Deepest Lonely
+Birdy - Fire Within
+Birdy - No Angel
+Birdy - Not About Angels
+Birdy - People Help The People
+Birdy - Shelter
+Birdy - Skinny Love
+Birdy - Skinny Love (Live)
+Birdy - The A Team
+Birdy - Wings (Acoustic)
+Birdy - Wings (Live Acoustic)
+Birdy - Words As Weapons
+Blink-182 - I Miss You
+Bob Dylan - Boots Of Spanish Leather
+Bob Dylan - Don't Think Twice, It's All Right
+Bob Dylan - Girl From The North Country
+Bob Dylan - If Not For You
+Bob Dylan - Knockin' on Heaven's Door
+Bob Dylan - Make You Feel My Love
+Bob Dylan - Shelter From The Storm
+Bon Iver - Blood Bank
+Bon Iver - Hey, Ma
+Bon Iver - Holocene
+Bon Iver - Perth
+Bon Iver - Re: Stacks
+Bon Iver - Skinny Love
+Bon Iver - Towers
+Boyz II Men - End of the Road
+Brad Paisley - Whiskey Lullaby
+Brian McKnight - Back at One
+Brooks & Dunn - Believe
+Bruno Major - Easily
+Bruno Major - Figment Of My Mind
+Bruno Major - Nothing
+Bruno Major - Old Fashioned
+Bruno Major - Places We Won't Walk
+Bruno Major - Regent's Park
+Bruno Major - Tell Her
+Bruno Major - The Most Beautiful Thing
+Bruno Mars - Just the Way You Are
+Bruno Mars - Talking to the Moon
+Bryan Adams - Everything I Do
+Bryan Adams - Heaven
+Bryan Adams - Heaven (Acoustic)
+Bryan Adams - Please Forgive Me
+Bryan Adams - Please Forgive Me (Acoustic)
+Bryan Adams - Run To You (Acoustic)
+Bryan Adams - Straight From The Heart
+Camila Cabello - Consequences
+Carpenters - Close to You
+Carrie Underwood - Jesus Take the Wheel
+Cat Stevens - Father and Son
+Celine Dion - My Heart Will Go On
 Celine Dion - The Power of Love
+Chicago - You're the Inspiration
+Chris Brown - With You
+Christina Perri - A Thousand Years
+Cigarettes After Sex - Apocalypse
+Cigarettes After Sex - Cry
+Cigarettes After Sex - Falling In Love
+Cigarettes After Sex - Heavenly
+Cigarettes After Sex - K.
+Cigarettes After Sex - Nothing's Gonna Hurt You Baby
+Cigarettes After Sex - Pistol
+Cigarettes After Sex - Sunsetz
+Cigarettes After Sex - Sweet
+Clairo - Alewife
+Clairo - Bags
+Clairo - Bubble Gum
+Clairo - Harbor
+Clairo - Management
+Clairo - Pretty Girl
+Clairo - Sofia
+Clairo - Softly
+Coldplay - A Message
+Coldplay - Amsterdam
+Coldplay - Everglow
+Coldplay - Fix You
+Coldplay - Gravity
+Coldplay - See You Soon
+Coldplay - Sparks
+Coldplay - Til Kingdom Come
+Coldplay - Warning Sign
+Coldplay - Yellow
+Commodores - Easy
+Conan Gray - Astronomy
+Conan Gray - Comfort Crowd
+Conan Gray - Heather
+Conan Gray - Movies
+Conan Gray - People Watching
+Conan Gray - The Cut That Always Bleeds
+Conan Gray - The Story
+Conan Gray - Yours
+Cranberries - Linger
+Cyndi Lauper - Time After Time
+Damien Rice - 9 Crimes
+Damien Rice - Cannonball
+Damien Rice - Colour Me In
+Damien Rice - Delicate
+Damien Rice - Elephant
+Damien Rice - The Animals Were Gone
+Damien Rice - The Blower's Daughter
+Damien Rice - Trusty And True
+Daniel Powter - Bad Day
+Daughter - Landfill
+Daughter - Love
+Daughter - Medicine
+Daughter - No Care
+Daughter - Smother
+Daughter - Winter
+Daughter - Youth
+Daughter - Youth (Acoustic)
+Daughtry - Home
+Dean Martin - That's Amore
+Demi Lovato - Stone Cold
+Dermot Kennedy - All My Friends
+Dermot Kennedy - An Evening I Will Not Forget
+Dermot Kennedy - For Island Fires And Family
+Dermot Kennedy - Lost
+Dermot Kennedy - Moments Passed
+Dermot Kennedy - Outnumbered
+Dermot Kennedy - Power Over Me (Acoustic)
+Dermot Kennedy - Rome
+Dido - White Flag
+Dixie Chicks - Landslide
+Dolly Parton - I Will Always Love You
+Don Henley - Boys of Summer
+Don McLean - American Pie (Acoustic)
+Don McLean - And I Love You So
+Don McLean - Crossroads
+Don McLean - Empty Chairs
+Don McLean - Homeless Brother
+Don McLean - Vincent
+Don McLean - Vincent (Acoustic)
+Eagles - Desperado
+Eagles - I Can't Tell You Why
+Eagles - Love Will Keep Us Alive
+Eagles - Peaceful Easy Feeling
+Eagles - The Sad Cafe
+Eagles - Try And Love Again
+Eagles - Wasted Time
+Ed Sheeran - Autumn Leaves
+Ed Sheeran - Even My Dad Does Sometimes
+Ed Sheeran - Give Me Love
+Ed Sheeran - Happier
+Ed Sheeran - Perfect
+Ed Sheeran - Photograph
+Ed Sheeran - Save Myself
+Ed Sheeran - Tenerife Sea
+Ed Sheeran - Thinking Out Loud
+Ed Sheeran - Wake Me Up
+Ella Fitzgerald - Misty
+Elton John - Blue Eyes
+Elton John - Candle In The Wind
+Elton John - I Guess That's Why They Call It The Blues
+Elton John - Sorry Seems To Be The Hardest Word
+Elton John - Sorry Seems To Be The Hardest Word (Live)
+Elton John - Tiny Dancer
+Elton John - Your Song
+Elvis Presley - Can't Help Falling in Love
+Eric Clapton - Bell Bottom Blues
+Eric Clapton - Layla (Unplugged)
+Eric Clapton - My Father's Eyes
+Eric Clapton - Tears In Heaven (Acoustic)
+Eric Clapton - Tears In Heaven (Live)
+Eric Clapton - Wonderful Tonight
+Etta James - At Last
+Evanescence - My Immortal
+FINNEAS - Angel
+FINNEAS - Around My Neck
+FINNEAS - Break My Heart Again
+FINNEAS - Die Alone
+FINNEAS - I Lost A Friend
+FINNEAS - Let's Fall In Love For The Night
+FINNEAS - Only A Lifetime
+FINNEAS - What They'll Say About Us
+Faith Hill - Breathe
+Five for Fighting - 100 Years
+Fleetwood Mac - Beautiful Child
+Fleetwood Mac - Landslide (Acoustic)
+Fleetwood Mac - Sara
+Fleetwood Mac - Silver Springs
+Fleetwood Mac - Songbird
+Fleetwood Mac - Songbird (Live)
+Fleetwood Mac - Storms
+Foo Fighters - Everlong (Acoustic)
+Foreigner - I Want to Know What Love Is
+Frank Ocean - Godspeed
+Frank Ocean - Ivy
+Frank Ocean - Moon River
+Frank Ocean - Nights
+Frank Ocean - Self Control
+Frank Ocean - Skyline To
+Frank Ocean - Thinkin Bout You
+Frank Ocean - White Ferrari
+Frank Sinatra - Fly Me To The Moon
+Garth Brooks - The Dance
+George Michael - A Different Corner
+George Michael - Careless Whisper
+George Michael - Cowboys And Angels
+George Michael - Jesus To A Child
+George Michael - Kissing A Fool
+George Michael - Praying For Time
+George Michael - You Have Been Loved
+George Strait - I Cross My Heart
+Goo Goo Dolls - Iris
+Green Day - Good Riddance
+Guns N' Roses - November Rain
+Halsey - 929
+Halsey - Darling
+Halsey - Finally // Beautiful Stranger
+Halsey - Graveyard (Acoustic)
+Halsey - Sorry
+Halsey - Without Me (Stripped)
+Hank Williams - I'm So Lonesome I Could Cry
+Harry Styles - Boyfriends
+Harry Styles - Ever Since New York
+Harry Styles - Falling
+Harry Styles - Fine Line
+Harry Styles - From The Dining Table
+Harry Styles - Little Freak
+Harry Styles - Matilda
+Harry Styles - Sign of the Times
+Harry Styles - Sweet Creature
+Hoobastank - The Reason
+Howie Day - Collide
+Hozier - Almost (Sweet Music)
+Hozier - Cherry Wine
+Hozier - Like Real People Do
+Hozier - Shrike
+Hozier - To Be Alone
+Hozier - Unknown / Nth
+Hozier - Work Song
+Incubus - Drive
+James Arthur - Say You Won't Let Go
+James Bay - Hold Back The River
+James Bay - If You Ever Want To Be In Love
+James Bay - Let It Go
+James Bay - Move Together
+James Bay - Need The Sun To Break
+James Bay - One Life
+James Bay - Peer Pressure
+James Bay - Scars
+James Ingram - Just Once
+James Taylor - You've Got a Friend
+Jason Mraz - I Won't Give Up
+Jeff Buckley - Corpus Christi Carol
+Jeff Buckley - Forget Her
+Jeff Buckley - Grace
+Jeff Buckley - Hallelujah
+Jeff Buckley - Hallelujah (Live)
+Jeff Buckley - Last Goodbye
+Jeff Buckley - Lover, You Should've Come Over
+Jeffrey Osborne - On the Wings of Love
+Jewel - You Were Meant for Me
+John Legend - All of Me
+John Lennon - Imagine
+John Lennon - Isolation
+John Lennon - Jealous Guy
+John Lennon - Love
+John Lennon - Oh My Love
+John Lennon - Watching The Wheels
+John Lennon - Woman
+John Mayer - Comfortable
+John Mayer - Dreaming With A Broken Heart
+John Mayer - Edge Of Desire
+John Mayer - Gravity
+John Mayer - In Your Atmosphere
+John Mayer - Neon (Acoustic)
+John Mayer - Slow Dancing In A Burning Room
+John Mayer - Stop This Train
+Johnny Cash - Hurt
+Joji - Ew
+Joji - Glimpse Of Us
+Joji - Like You Do
+Joji - Run (Acoustic)
+Joji - Sanctuary
+Joji - Slow Dancing In The Dark (Acoustic)
+Joji - Will He
+Joji - Yeah Right
+Joni Mitchell - Both Sides Now
+Journey - Faithfully
+Judy Garland - Over the Rainbow
+Julia Michaels - Issues
+Julie Andrews - Edelweiss
+Justin Bieber - Love Yourself
+K-Ci & JoJo - All My Life
+Kansas - Dust in the Wind
+Katy Perry - The One That Got Away
+Keane - Bedshaped
+Keane - Crystal Ball (Acoustic)
+Keane - Everybody's Changing
+Keane - Everybody's Changing (Acoustic)
+Keane - Hamburg Song
+Keane - Sea Fog
+Keane - She Has No Time
+Keane - Silenced By The Night (Acoustic)
+Keane - Somewhere Only We Know
+Keane - The Lovers Are Losing (Acoustic)
+Keane - Try Again
+Keane - Untitled 1
+Keane - We Might As Well Be Strangers
+Kelly Clarkson - Because of You
+Kenny Chesney - There Goes My Life
+Kodaline - All I Want
+Kodaline - Brother
+Kodaline - High Hopes
+Kodaline - Love Like This (Acoustic)
+Kodaline - Ready
+Kodaline - Shed A Tear
+Kodaline - The One
+Kodaline - Wherever You Are
+Labrinth - All For Us (Acoustic)
+Labrinth - Beneath Your Beautiful
+Labrinth - Forever
+Labrinth - Jealous
+Labrinth - Jealous (Acoustic)
+Labrinth - Mount Everest (Acoustic)
+Labrinth - Still Don't Know My Name (Acoustic)
+Lady A - Need You Now
+Lady Gaga - Shallow
+Lana Del Rey - Blue Jeans
+Lana Del Rey - Born To Die
+Lana Del Rey - Cinnamon Girl
+Lana Del Rey - Dark Paradise
+Lana Del Rey - Hope Is A Dangerous Thing For A Woman Like Me To Have
+Lana Del Rey - Let Me Love You Like A Woman
+Lana Del Rey - Mariners Apartment Complex
+Lana Del Rey - Paris, Texas
+Lana Del Rey - Ride
+Lana Del Rey - Salvatore
+Lana Del Rey - Shades Of Cool
+Lana Del Rey - Summertime Sadness
+Lana Del Rey - Terrence Loves You
+Lana Del Rey - Tomorrow Never Came
+Lana Del Rey - Video Games
+Lana Del Rey - West Coast (Acoustic)
+Lana Del Rey - Young And Beautiful
+Leona Lewis - Bleeding Love
+Leonard Cohen - Bird On The Wire
+Leonard Cohen - Dance Me To The End Of Love
+Leonard Cohen - Famous Blue Raincoat
+Leonard Cohen - Hallelujah
+Leonard Cohen - Hallelujah (Live)
+Leonard Cohen - If It Be Your Will
+Leonard Cohen - Suzanne
+Lewis Capaldi - Bruises
+Lewis Capaldi - Fade
+Lewis Capaldi - Forever
+Lewis Capaldi - Grace
+Lewis Capaldi - Headspace
+Lewis Capaldi - Hold Me While You Wait
+Lewis Capaldi - Pointless
+Lewis Capaldi - Someone You Loved
+Lewis Capaldi - Someone You Loved (Acoustic)
+Lifehouse - Hanging by a Moment
+Linkin Park - One More Light
+Lionel Richie - Hello
+Lionel Richie - Stuck on You
+London Grammar - Baby It's You
+London Grammar - Hell To The Liars
+London Grammar - If You Wait
+London Grammar - Nightcall
+London Grammar - Oh Woman Oh Man
+London Grammar - Rooting For You
+London Grammar - Strong
+London Grammar - Wasting My Young Years
+Lonestar - Amazed
+Lord Huron - Ends Of The Earth
+Lord Huron - Frozen Pines
+Lord Huron - In The Wind
+Lord Huron - Lonesome Dreams
+Lord Huron - Love Like Ghosts
+Lord Huron - Meet Me In The Woods
+Lord Huron - The Night We Met
+Lord Huron - Wait By The River
+Lorde - Hard Feelings
+Lorde - Liability
+Lorde - Liability (Reprise)
+Lorde - Ribs
+Lorde - Secrets From A Girl (Who's Seen It All)
+Lorde - Supercut (Acoustic)
+Lorde - Writer In The Dark
+Loretta Lynn - Coal Miner's Daughter
+Louis Armstrong - What a Wonderful World
+Luther Vandross - Dance with My Father
+Madonna - Crazy for You
+Mariah Carey - Vision of Love
+Mariah Carey - We Belong Together
+Maroon 5 - She Will Be Loved
+Marvin Gaye - After The Dance
+Marvin Gaye - Distant Lover
+Marvin Gaye - I Heard It Through The Grapevine (Slow Version)
+Marvin Gaye - I Want You
+Marvin Gaye - Inner City Blues
+Marvin Gaye - Mercy Mercy Me
+Marvin Gaye - What's Going On
+Matchbox Twenty - Unwell
+Michael Jackson - Human Nature
+Michael Jackson - She's Out of My Life
+Miley Cyrus - The Climb
+NSYNC - This I Promise You
+Nat King Cole - Unforgettable
+Natalie Imbruglia - Torn
+Ne-Yo - So Sick
+Nina Simone - Feeling Good
+Nirvana - Something in the Way
+No Doubt - Don't Speak
+Norah Jones - Come Away With Me
+Norah Jones - Don't Know Why
+Norah Jones - Don't Miss You At All
+Norah Jones - Lonestar
+Norah Jones - Seven Years
+Norah Jones - Shoot The Moon
+Norah Jones - Sunrise
+Norah Jones - The Nearness Of You
+Norah Jones - Turn Me On
+Novo Amor - Anchor
+Novo Amor - Carry You
+Oasis - Cast No Shadow
+Oasis - Half The World Away
+Oasis - Let There Be Love
+Oasis - Stop Crying Your Heart Out
+Oasis - Talk Tonight
+Oasis - The Masterplan
+Oasis - Wonderwall
+Olivia Rodrigo - Drivers License
+Olivia Rodrigo - Enough For You
+Olivia Rodrigo - Favorite Crime
+Olivia Rodrigo - Happier
+Olivia Rodrigo - Logical
+Olivia Rodrigo - The Grudge
+Olivia Rodrigo - Traitor
+One Direction - Little Things
+OneRepublic - Apologize
+Otis Redding - Dock of the Bay
+Passenger - Let Her Go
+Patsy Cline - Crazy
+Peabo Bryson - A Whole New World
+Pearl Jam - Just Breathe
+Phil Collins - Against All Odds
+Phil Collins - Can't Turn Back The Years
+Phil Collins - Do You Remember?
+Phil Collins - If Leaving Me Is Easy
+Phil Collins - In the Air Tonight
+Phil Collins - One More Night
+Phil Collins - You'll Be In My Heart
+Phoebe Bridgers - Chinese Satellite
+Phoebe Bridgers - Funeral
+Phoebe Bridgers - Garden Song
+Phoebe Bridgers - Kyoto (Acoustic)
+Phoebe Bridgers - Moon Song
+Phoebe Bridgers - Motion Sickness
+Phoebe Bridgers - Savior Complex
+Phoebe Bridgers - Scott Street
+Post Malone - Circles (Acoustic)
+Post Malone - Feeling Whitney
+Post Malone - Feeling Whitney (Live)
+Post Malone - Hollywood's Bleeding
+Post Malone - I Fall Apart
+Post Malone - Stay
+Post Malone - Stay (Acoustic)
+Prince - Diamonds and Pearls
+Prince - Nothing Compares 2 U
+Prince - Purple Rain
+Prince - Purple Rain (Acoustic)
+Prince - Sometimes It Snows In April
+Prince - Sometimes It Snows In April (Acoustic)
+Prince - Sometimes It Snows In April (Live)
+Prince - The Beautiful Ones
+R.E.M. - At My Most Beautiful
+R.E.M. - Drive
+R.E.M. - Everybody Hurts
+R.E.M. - Everybody Hurts (Acoustic)
+R.E.M. - Find The River
+R.E.M. - Nightswimming
+R.E.M. - Sweetness Follows
+REO Speedwagon - Keep on Loving You
+RY X - Berlin
+RY X - Only
+Radiohead - All I Need
+Radiohead - Exit Music (For A Film)
+Radiohead - High and Dry
+Radiohead - How To Disappear Completely
+Radiohead - Let Down
+Radiohead - Street Spirit (Fade Out)
+Radiohead - True Love Waits
+Rascal Flatts - Bless the Broken Road
+Ray Charles - Georgia on My Mind
+Red Hot Chili Peppers - Under the Bridge
+Rex Orange County - Best Friend
+Rex Orange County - Corduroy Dreams
+Rex Orange County - Edition
+Rex Orange County - Loving Is Easy (Acoustic)
+Rex Orange County - Pluto Projector
+Rex Orange County - Sunflower
+Rex Orange County - Untitled
+Rex Orange County - Waiting Room
+Rhodes - Close Your Eyes
+Rhodes - Let It All Go
+Rihanna - Stay
+Rihanna - Take a Bow
+SYML - Fear Of The Water
+SYML - Where's My Love (Acoustic)
+Sade - No Ordinary Love
+Sade - Smooth Operator
+Sam Cooke - A Change Is Gonna Come
+Sam Smith - Drowning Shadows
+Sam Smith - I'm Not The Only One
+Sam Smith - Lay Me Down
+Sam Smith - Love Goes
+Sam Smith - Midnight Train
+Sam Smith - Not In That Way
+Sam Smith - To Die For
+Sam Smith - Too Good At Goodbyes
+Sam Smith - Too Good At Goodbyes (Acoustic)
+Sarah McLachlan - Angel
+Sarah Vaughan - Misty
+Savage Garden - Truly Madly Deeply
+Selena Gomez - Lose You to Love Me
+Shania Twain - You're Still the One
+Shawn Mendes - Mercy
+Sheryl Crow - Strong Enough
+Sia - Helium
+Simon & Garfunkel - America
+Simon & Garfunkel - April Come She Will
+Simon & Garfunkel - Bridge Over Troubled Water
+Simon & Garfunkel - Homeward Bound
+Simon & Garfunkel - Kathy's Song
+Simon & Garfunkel - Old Friends
+Simon & Garfunkel - The Only Living Boy In New York
+Sixpence None the Richer - Kiss Me
+Sleeping At Last - Atlas: Heart
+Sleeping At Last - Light
+Sleeping At Last - North
+Sleeping At Last - Saturn
+Sleeping At Last - Three
+Sleeping At Last - Turning Page
+Sleeping At Last - Two
+Sleeping At Last - Venus
+Snow Patrol - Chasing Cars
+Snow Patrol - Chasing Cars (Acoustic)
+Snow Patrol - Make This Go On Forever
+Snow Patrol - Open Your Eyes
+Snow Patrol - Run
+Snow Patrol - Set The Fire To The Third Bar
+Snow Patrol - You Could Be Happy
+Soundgarden - Black Hole Sun (Acoustic)
+Stevie Wonder - All In Love Is Fair
+Stevie Wonder - All In Love Is Fair (Live)
+Stevie Wonder - I Just Called to Say I Love You
+Stevie Wonder - Knocks Me Off My Feet
+Stevie Wonder - Lately
+Stevie Wonder - Lately (Live)
+Stevie Wonder - Overjoyed
+Stevie Wonder - Ribbon In The Sky
+Sting - Fields Of Gold (Acoustic)
+Sting - Fields of Gold
+Sting - Fragile
+Sting - Mad About You
+Sting - Russians (Acoustic)
+Sting - Shape Of My Heart
+Sting - Why Should I Cry For You
+Stone Temple Pilots - Plush (Acoustic)
+Sufjan Stevens - Carrie & Lowell
+Sufjan Stevens - Death With Dignity
+Sufjan Stevens - Eugene
+Sufjan Stevens - Futile Devices
+Sufjan Stevens - Mystery Of Love
+Sufjan Stevens - Should Have Known Better
+Sufjan Stevens - The Only Thing
+Sufjan Stevens - Visions Of Gideon
+Taylor Swift - All Too Well
+Taylor Swift - Begin Again
+Taylor Swift - Bigger Than The Whole Sky
+Taylor Swift - Cardigan
+Taylor Swift - Champagne Problems
+Taylor Swift - Evermore
+Taylor Swift - Exile
+Taylor Swift - Hoax
+Taylor Swift - Invisible String
+Taylor Swift - Mirrorball
+Taylor Swift - My Tears Ricochet
+Taylor Swift - New Year's Day
+Taylor Swift - Peace
+Taylor Swift - Sad Beautiful Tragic
+Taylor Swift - Safe & Sound
+Taylor Swift - Safe and Sound
+Taylor Swift - Sweet Nothing
+Taylor Swift - The Archer
+Taylor Swift - The Lakes
+Taylor Swift - The Moment I Knew
+Taylor Swift - This Love
+Taylor Swift - Tolerate It
+Taylor Swift - You're On Your Own, Kid (Acoustic)
+The 1975 - Be My Mistake
+The 1975 - Fallingforyou
+The 1975 - If I Believe You
+The 1975 - Is There Somebody Who Can Watch You
+The 1975 - Me
+The 1975 - Nana
+The 1975 - She Lays Down
+The 1975 - Somebody Else
+The Beatles - Across The Universe
+The Beatles - Because
+The Beatles - Blackbird
+The Beatles - In My Life
+The Beatles - Julia
+The Beatles - Let It Be
+The Beatles - The Long And Winding Road
+The Calling - Wherever You Will Go
+The Fray - How to Save a Life
+The Fray - You Found Me
+The Lumineers - Angela
+The Lumineers - Cleopatra (Acoustic)
+The Lumineers - Donna
+The Lumineers - Gale Song
+The Lumineers - Leader Of The Landslide
+The Lumineers - My Eyes
+The Lumineers - Sleep On The Floor (Acoustic)
+The Lumineers - Slow It Down
+The National - About Today
+The National - About Today (Live)
+The National - Guilty Party
+The National - I Need My Girl
+The National - Light Years
+The National - Pink Rabbits
+The National - Slow Show
+The Paper Kites - Bloom
+The Paper Kites - Don't Keep Driving
+The Paper Kites - Electric Indigo
+The Paper Kites - Featherstone
+The Paper Kites - Paint
+The Paper Kites - St Clarity
+The Paper Kites - Tenenbaum
+The Paper Kites - Willow Tree March
+The Police - Every Breath You Take
+The Verve - Bitter Sweet Symphony
+The Weeknd - Adaptation
+The Weeknd - Call Out My Name
+The Weeknd - Die For You
+The Weeknd - Nothing Without You
+The Weeknd - Privilege
+The Weeknd - The Knowing
+The Weeknd - Twenty Eight
+Tim McGraw - Humble and Kind
+Timbaland - Apologize
+Tom Odell - Another Love
+Tom Odell - Can't Pretend
+Tom Odell - Concrete
+Tom Odell - Grow Old With Me
+Tom Odell - Heal
+Tom Odell - Hold Me
+Tom Odell - Long Way Down
+Tom Odell - Somehow
+Tony Bennett - I Left My Heart in San Francisco
+Toto - Africa (Acoustic)
+Train - Drops of Jupiter
+Travis - Driftwood
+Travis - Flowers In The Window
+Travis - Side
+Travis - Sing
+Travis - Sing (Acoustic)
+Travis - Why Does It Always Rain On Me?
+Travis - Writing To Reach You
+U2 - All I Want Is You
+U2 - Love Is Blindness
+U2 - One
+U2 - Ordinary Love
+U2 - Sometimes You Can't Make It On Your Own
+U2 - Stay (Faraway, So Close!)
+U2 - With Or Without You
+Usher - Burn
+Vance Joy - Call If You Need Me
+Vance Joy - Emmylou
+Vance Joy - Fire And The Flood
+Vance Joy - Georgia
+Vance Joy - Mess Is Mine
+Vance Joy - Red Eye
+Vance Joy - Snaggletooth
+Vance Joy - We All Die Trying To Get It Right
+Westlife - My Love
+Wham! - Last Christmas
+Whitney Houston - Greatest Love of All
+Whitney Houston - I Will Always Love You
+Willie Nelson - Always on My Mind
+Zayn - Dusk Till Dawn
